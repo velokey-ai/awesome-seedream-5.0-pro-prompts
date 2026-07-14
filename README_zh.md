@@ -16,7 +16,7 @@
 
 | 📝 提示词总数 | ⭐ 精选 | 🏷️ 分类数 | 🔄 最近更新 |
 |---|---|---|---|
-| **0** | **0** | **0** | 2026-07-14 07:01 UTC |
+| **0** | **0** | **0** | 2026-07-14 07:04 UTC |
 
 ## 🗂️ 按分类浏览
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-14 07:01 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-14 07:04 UTC</sub>
 
 <br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedream)</sub>
 
