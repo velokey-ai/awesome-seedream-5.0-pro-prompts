@@ -1,0 +1,14 @@
+# ============================================================
+# Seedream 5.0 Pro 素材登记表 —— 你唯一需要编辑的文件
+#
+# 每收集到一条网上的爆款 prompt，就照下面的格子填一条。
+# 保存并 push 后，机器人会自动重新排版 README（中英双版）。
+#
+# 字段说明：
+#   id / title / title_en / featured(可选) / category / model /
+#   prompt(| 换行粘贴) / note(可选) / needs_input(可选) /
+#   images(文件名列表，图放 images/) / author / author_link / source / via(可选)
+#   分类可选值：portrait / product / card / style / infographic / creative（不填算 other）
+# ============================================================
+
+# —— 等采集器抓到 Seedream 书签后，由 Claude 填入 ——

@@ -1,0 +1,44 @@
+name: 🍌 Submit a Prompt / 投稿提示词
+description: Share a great Nano Banana Pro prompt you found (with attribution) / 分享你发现的好提示词（需注明出处）
+title: "[Prompt] "
+labels: ["prompt-submission"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title / 标题
+      placeholder: e.g. Crystal-clear glass 3D object
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt / 提示词原文
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: images
+    attributes:
+      label: Result image URLs / 效果图链接（一行一个）
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Original author / 原作者（X 用户名）
+      placeholder: "@someone"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link / 原帖链接
+      placeholder: https://x.com/...
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Usage notes / 使用说明（可选）
