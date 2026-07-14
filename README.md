@@ -4,7 +4,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/submissions-welcome-brightgreen.svg)](https://github.com/velokey-ai/awesome-seedream-prompts/issues/new?template=submit-prompt.yml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/submissions-welcome-brightgreen.svg)](https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts/issues/new?template=submit-prompt.yml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > A curated collection of creative prompts for ByteDance's **Seedream 5.0 Pro** image model, collected from the community with attribution.
 >
@@ -1642,13 +1642,13 @@ The face, identity, appearance, age, and all unique characteristics of the perso
 
 ## 🤝 How to Contribute
 
-Found a great prompt on X / Reddit / RedNote? [**Submit it via Issue form**](https://github.com/velokey-ai/awesome-seedream-prompts/issues/new?template=submit-prompt.yml) — once approved, it appears in the README automatically.
+Found a great prompt on X / Reddit / RedNote? [**Submit it via Issue form**](https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts/issues/new?template=submit-prompt.yml) — once approved, it appears in the README automatically.
 
 ## 📄 License
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Prompt credits belong to their original authors.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=velokey-ai/awesome-seedream-prompts&type=Date)](https://star-history.com/#velokey-ai/awesome-seedream-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=velokey-ai/awesome-seedream-5.0-pro-prompts&type=Date)](https://star-history.com/#velokey-ai/awesome-seedream-5.0-pro-prompts&Date)
 
 <div align="center">
 

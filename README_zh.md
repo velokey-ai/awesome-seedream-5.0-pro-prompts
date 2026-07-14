@@ -4,7 +4,7 @@
 
 [English](README.md) · **简体中文**
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/submissions-welcome-brightgreen.svg)](https://github.com/velokey-ai/awesome-seedream-prompts/issues/new?template=submit-prompt.yml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/submissions-welcome-brightgreen.svg)](https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts/issues/new?template=submit-prompt.yml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > 精选社区疯传的 **Seedream 5.0 Pro** 创意提示词，全部标注原作者与出处。
 >
@@ -1642,13 +1642,13 @@ The face, identity, appearance, age, and all unique characteristics of the perso
 
 ## 🤝 投稿
 
-在 X / Reddit / 小红书看到好提示词？[**点这里用表单投稿**](https://github.com/velokey-ai/awesome-seedream-prompts/issues/new?template=submit-prompt.yml)，审核通过后自动收录进 README。
+在 X / Reddit / 小红书看到好提示词？[**点这里用表单投稿**](https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts/issues/new?template=submit-prompt.yml)，审核通过后自动收录进 README。
 
 ## 📄 协议
 
 本仓库采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议，提示词版权归原作者所有。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=velokey-ai/awesome-seedream-prompts&type=Date)](https://star-history.com/#velokey-ai/awesome-seedream-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=velokey-ai/awesome-seedream-5.0-pro-prompts&type=Date)](https://star-history.com/#velokey-ai/awesome-seedream-5.0-pro-prompts&Date)
 
 <div align="center">
 

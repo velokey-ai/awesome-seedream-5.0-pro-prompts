@@ -9,7 +9,7 @@ import yaml
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "prompts.yaml")
 
-REPO = "velokey-ai/awesome-seedream-prompts"
+REPO = "velokey-ai/awesome-seedream-5.0-pro-prompts"
 SITE = "https://velokey.ai?sourceChannel=github-awesome-seedream"
 BANNER = "images/banner.png"  # 顶部横幅，images/ 下存在才会显示
 
