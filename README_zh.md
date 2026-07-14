@@ -16,7 +16,7 @@
 
 | 📝 提示词总数 | ⭐ 精选 | 🏷️ 分类数 | 🔄 最近更新 |
 |---|---|---|---|
-| **0** | **0** | **0** | 2026-07-14 07:04 UTC |
+| **30** | **8** | **6** | 2026-07-14 07:17 UTC |
 
 ## 🗂️ 按分类浏览
 
@@ -923,7 +923,7 @@ A rugged man in his 50s inside a wet industrial corridor, facing three-quarter l
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-14 07:04 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-14 07:17 UTC</sub>
 
 <br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedream)</sub>
 
