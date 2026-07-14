@@ -20,7 +20,7 @@
 
 ## 🗂️ 按分类浏览
 
-<details open><summary><b>🧑 人像与头像</b> (11)</summary>
+<details open><summary><b>🧑 人像与头像</b> (21)</summary>
 
 - [⭐ No.16 电话亭 Y2K 暗系人像](#no16-电话亭-y2k-暗系人像)
 - [⭐ No.19 林间国风神女](#no19-林间国风神女)
@@ -33,6 +33,16 @@
 - [No.17 咖啡馆街拍甜酷少女](#no17-咖啡馆街拍甜酷少女)
 - [No.18 午后街拍侧逆光人像](#no18-午后街拍侧逆光人像)
 - [No.23 极简高定时尚特写](#no23-极简高定时尚特写)
+- [No.31 御姐风暗调时尚特写](#no31-御姐风暗调时尚特写)
+- [No.35 柔光 pastel 室内人像](#no35-柔光-pastel-室内人像)
+- [No.36 红金古风 cosplay](#no36-红金古风-cosplay)
+- [No.37 雪中回眸人像](#no37-雪中回眸人像)
+- [No.38 月夜檐廊人像](#no38-月夜檐廊人像)
+- [No.40 摩天楼仰角街拍](#no40-摩天楼仰角街拍)
+- [No.41 红纱丽宫廷人像](#no41-红纱丽宫廷人像)
+- [No.43 古风书阁纪实人像](#no43-古风书阁纪实人像)
+- [No.45 滑板运动风人像](#no45-滑板运动风人像)
+- [No.47 摩天轮波西米亚夏日](#no47-摩天轮波西米亚夏日)
 
 </details>
 
@@ -44,19 +54,22 @@
 
 </details>
 
-<details open><summary><b>🎴 卡片与海报</b> (6)</summary>
+<details open><summary><b>🎴 卡片与海报</b> (8)</summary>
 
 - [⭐ No.11 编辑风动感海报模板](#no11-编辑风动感海报模板)
 - [⭐ No.12 真实产品×涂鸦创意广告](#no12-真实产品涂鸦创意广告)
 - [⭐ No.29 科幻电影海报 Lazarus One](#no29-科幻电影海报-lazarus-one)
+- [⭐ No.33 1980s 胡子膏广告分镜](#no33-1980s-胡子膏广告分镜)
+- [⭐ No.42 City Jump 街头海报](#no42-city-jump-街头海报)
 - [No.4 赛博朋克安卓海报](#no4-赛博朋克安卓海报)
 - [No.5 玻璃花 editorial 海报](#no5-玻璃花-editorial-海报)
 - [No.7 儿童黏土玩具广告](#no7-儿童黏土玩具广告)
 
 </details>
 
-<details open><summary><b>🎨 风格转绘</b> (5)</summary>
+<details open><summary><b>🎨 风格转绘</b> (6)</summary>
 
+- [⭐ No.46 红底暗黑 webtoon 插画](#no46-红底暗黑-webtoon-插画)
 - [No.15 日式田园电影感空镜](#no15-日式田园电影感空镜)
 - [No.24 黏土定格烘焙师](#no24-黏土定格烘焙师)
 - [No.26 雨中武士电影镜头](#no26-雨中武士电影镜头)
@@ -65,16 +78,20 @@
 
 </details>
 
-<details open><summary><b>📊 信息图与教育</b> (2)</summary>
+<details open><summary><b>📊 信息图与教育</b> (3)</summary>
 
 - [⭐ No.20 Seedream 杂志跨页信息图](#no20-seedream-杂志跨页信息图)
 - [No.14 蓝图技术分解图](#no14-蓝图技术分解图)
+- [No.34 多语言海报文字替换](#no34-多语言海报文字替换)
 
 </details>
 
-<details open><summary><b>🌀 创意脑洞</b> (3)</summary>
+<details open><summary><b>🌀 创意脑洞</b> (6)</summary>
 
 - [⭐ No.21 三视图角色设定](#no21-三视图角色设定)
+- [⭐ No.32 四象眼眸四屏写真](#no32-四象眼眸四屏写真)
+- [⭐ No.39 漫画等距剖面模型](#no39-漫画等距剖面模型)
+- [⭐ No.44 云雾天狐幻境](#no44-云雾天狐幻境)
 - [No.22 黑白漫画分格页](#no22-黑白漫画分格页)
 - [No.28 3D 动画毛怪衣柜](#no28-3d-动画毛怪衣柜)
 
@@ -344,6 +361,436 @@ A highly photorealistic live-action sci-fi movie poster showing a battle-worn hu
 ```
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285197768286298)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.32 四象眼眸四屏写真
+
+![Category](https://img.shields.io/badge/分类-创意脑洞-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<img src="images/32-1.jpg" width="360" alt="四象眼眸四屏写真"> <img src="images/32-2.jpg" width="360" alt="四象眼眸四屏写真">
+
+</div>
+
+**📝 提示词:**
+
+```
+以眼部特写参考图作为唯一人物眼睛参考，生成一张 3:4 四屏构图东方幻想艺术眼眸写真。 四个画面分别代表中国传统四象：青龙、朱雀、白虎、玄武。 整体风格： 东方神话美学 × 高级美妆广告 × 超现实艺术摄影。 保持真实人类眼睛结构，高清微距摄影，真实皮肤纹理，精致睫毛，细腻眼妆，不改变眼型比例。 四屏人物眼睛保持同一身份，同一角度，同一构图。 第一屏：青龙 · 东方春生 眼眸呈现青绿色翡翠质感虹膜，仿佛一块天然东方玉石。 虹膜内部隐藏微型东方山水世界： 青龙盘旋于云雾之间，青竹、桃花、流水融入眼底。 睫毛化作细长竹叶与青色羽纹，眼角有细小桃花花瓣飘落。 脸部肌肤带有柔和春日光泽，青绿色流光环绕眼眸。 画面中央加入： “青龙” 白色东方篆刻艺术字体。 整体： 青绿色调，清雅、灵动、生命感。 第二屏：朱雀 · 炽焰盛夏 眼眸呈现赤金色琥珀质感。 虹膜内部像燃烧的小型凤凰世界： 朱雀展翅飞翔，金色火焰、凤凰羽毛、夕阳云霞融合其中。 睫毛带有细微火焰羽片质感，眼角漂浮金色羽毛。 皮肤被暖金色光线照亮，形成高级珠宝广告质感。 画面中央加入： “朱雀” 白色鎏金东方艺术字体。 整体： 红金色调，华丽、热烈、神圣。 第三屏：白虎 · 金秋肃杀 眼眸呈现金黄色琥珀瞳孔。 虹膜内部是一片东方秋日森林： 白虎身影隐藏于金色山林之间， 枫叶、古树、金色尘埃漂浮。 睫毛融合白色虎纹与秋叶纹理， 眉眼之间有银白色纹路若隐若现。 光线如夕阳穿过森林，形成电影感暖光。 画面中央加入： “白虎” 白色水墨艺术字体。 整体： 金黄、银白、深棕色调，神秘、高贵。 第四屏：玄武 · 冰雪玄境 眼眸呈现冰蓝色水晶质感。 虹膜内部是一片东方冰雪世界： 玄武神兽沉睡于冰川湖泊， 雪山、冰晶、寒雾融入眼底。 睫毛覆盖透明冰晶纹理， 眼角有细小雪花与银色光点。 冷蓝月光照射脸庞， 形成冰雪女神般的高级视觉。 画面中央加入： “玄武” 白色书法艺术字体。 整体： 冰蓝、银白色调，冷冽、纯净、空灵。 统一画面要求 四屏排列整齐，像高级艺术展览海报。 背景为极简东方留白空间， 加入淡淡水墨纹理、云雾、金属浮雕质感。 文字设计： 东方篆刻字体， 白色半透明艺术字， 不要现代商业字体。 摄影： macro eye photography, ultra realistic skin texture, cinematic lighting, luxury beauty campaign, 8K detail, high fashion editorial. 禁止： 卡通风格、动漫眼睛、夸张变形眼球、低质量CG、塑料皮肤、错误文字、额外眼睛。 比例： 3:4 生成图片
+```
+
+> 💡 使用说明: 对比 GPT Image 2
+
+**👤 出处:** [@Chengzilhy](https://x.com/Chengzilhy) · [source](https://x.com/Chengzilhy/status/2075462701887930745)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.33 1980s 胡子膏广告分镜
+
+![Category](https://img.shields.io/badge/分类-卡片与海报-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<img src="images/33-1.jpg" width="360" alt="1980s 胡子膏广告分镜">
+
+</div>
+
+**📝 提示词:**
+
+```
+STYLE
+Photorealistic cinematic advertising storyboard inspired by authentic 1980s American men’s grooming commercials. Warm 35mm film texture, soft natural grain, slightly faded color response, clean realistic skin and hair, understated visual comedy.
+
+FORMAT
+One 16:9 storyboard sheet divided into six equal cinematic panels in a clean 3×2 grid. Consistent character, bathroom, wardrobe, lighting and product design across every panel. Each panel has a small black caption strip with exact white text.
+
+CHARACTER
+A handsome 35-year-old American man with wavy dark-brown hair, a thick natural dark-brown moustache, expressive eyebrows and realistic facial texture. He wears a plain white ribbed tank top.
+
+LOCATION
+A stylish middle-class American bathroom from the 1980s: pale mint ceramic tiles, cream sink, chrome fixtures, glass shelf, warm morning sunlight and soft tungsten practical light.
+
+PANELS
+Panel 1 — Extreme close-up of the lower face. The man smiles, but both moustache tips droop downward like a sad frown. Caption: "SHOT 01 — SAD MOUSTACHE" and "00:00–00:02".
+
+Panel 2 — Medium mirror shot. He smiles wider while the moustache remains visibly sad and drooping. His eyes look down toward it with mild confusion. Caption: "SHOT 02 — SOMETHING IS WRONG" and "00:02–00:04".
+
+Panel 3 — Close product insert <<<image_1>>>. A stylish round jar of moustache cream <<<image_1>>> labeled "MUSTACHIO" and "MOUSTACHE CREAM" stands on the glass shelf as his hand reaches toward it. Caption: "SHOT 03 — MUSTACHIO" and "00:04–00:06".
+
+Panel 4 — Tight facial close-up. He applies a small amount of cream through the moustache with one simple outward finger movement. Caption: "SHOT 04 — APPLY" and "00:06–00:08".
+
+Panel 5 — Frontal close-up. The moustache becomes neat and full; both tips lift and curl upward like a smile. The man smiles with satisfied surprise. Caption: "SHOT 05 — HAPPY MOUSTACHE" and "00:08–00:12".
+
+Panel 6 — Clean packshot of the same <<<image_1>>> "MUSTACHIO" jar centered on the glass bathroom shelf, softly blurred mint-tile background, warm sunlight, premium 1980s advertising composition. Text beside the product: "MAKE YOUR MOUSTACHE HAPPY." Caption: "SHOT 06 — PACKSHOT" and "00:12–00:15".
+
+CONTINUITY
+The moustache is naturally drooping in panels 1–4 and symmetrically lifted in panel 5. Preserve the exact same man, jar, label design, bathroom and morning lighting throughout. All typography must be clean, readable and limited to the exact quoted text.
+```
+
+> 💡 使用说明: 6 格分镜 storyboard
+
+**👤 出处:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2075505502230900856)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.39 漫画等距剖面模型
+
+![Category](https://img.shields.io/badge/分类-创意脑洞-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<img src="images/39-1.jpg" width="360" alt="漫画等距剖面模型"> <img src="images/39-2.jpg" width="360" alt="漫画等距剖面模型">
+
+</div>
+
+**📝 提示词:**
+
+```
+2x2 grid, do this for 4 famous manga: RENDER_CHAIN = "[$INPUT_TOPIC :: iconic_interior :: isometric_cutaway_diorama]"
+
+TRANSFORM = {
+    "floor_plan": "cube with two cut walls, floating on void, cross-section edges clean",
+    "hero_space": "inferred iconic location rebuilt as hyper-detailed 3D room, architecture/materials true to source, warm interior light",
+    "inhabitants": "2-4 miniature stylized characters, mid-activity, correctly scaled to furniture",
+    "set_dressing": "8-15 recognizable props, furniture, signage, easter eggs; dense yet legible",
+    "render_env": "clean 3D, soft GI, gentle AO, true isometric 45°, neutral bg, crisp focus"
+}
+
+NEGATIVE = "photorealism, off-model characters, empty room, missing props, harsh shadows"
+
+OUTPUT = (RENDER_CHAIN :: TRANSFORM) - NEGATIVE
+RENDER: single miniature isometric diorama image.
+```
+
+> 💡 使用说明: 对比 Nano Banana Pro
+
+**👤 出处:** [@Gdgtify](https://x.com/Gdgtify) · [source](https://x.com/Gdgtify/status/2075856368246902834)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.42 City Jump 街头海报
+
+![Category](https://img.shields.io/badge/分类-卡片与海报-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<img src="images/42-1.jpg" width="360" alt="City Jump 街头海报">
+
+</div>
+
+**📝 提示词:**
+
+```
+Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout.
+
+At the top, place oversized rounded bubble typography reading “CITY JUMP” in deep cobalt blue. The letters are thick, soft, playful, tightly spaced, and partially hidden behind the central photo.
+
+In the center, place a large vertical action photograph of a young European man performing an energetic skateboard-style jump toward the camera in a modern urban plaza. He wears a orange open shirt, a shirt, black baggy pants, white crew socks, and black and white Nike Air sneakers.
+
+Use an extreme low-angle fisheye lens from ground level. His front shoe is dramatically enlarged and dominates the foreground, while his face and upper body appear smaller in the background. One arm stretches sideways for balance, while the other hand tightly holds the wide black strap of a large black messenger bag positioned close to the right side of the camera. The bag’s rectangular silver buckle should be clearly visible and sharply detailed.
+
+Bright blue sky with soft white clouds, modern glass-and-steel architecture, outdoor stairs, tiled pavement, strong midday sunlight, realistic shadows. Add subtle radial motion blur around the edges and background to emphasize fast movement, while keeping the person, shoe, bag strap, and buckle sharp.
+
+Add a rough hand-drawn red oval annotation around the silver buckle on the black bag, as if marked with a red grease pencil.
+
+At the bottom of the poster, include small cobalt-blue editorial text:
+
+Left side:
+“seedream 5.0”
+“move pro”
+
+Right side:
+“stay hungry”
+“carry fuel”
+
+Add a decorative cobalt-blue barcode graphic beneath the left text.
+
+Style: contemporary streetwear campaign, skateboarding photography, Gen-Z fashion editorial, experimental sports advertising, bold typography, dynamic forced perspective, vibrant blue and green color palette
+```
+
+**👤 出处:** [@LinusEkenstam](https://x.com/LinusEkenstam) · [source](https://x.com/LinusEkenstam/status/2076273553964687462)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.44 云雾天狐幻境
+
+![Category](https://img.shields.io/badge/分类-创意脑洞-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<img src="images/44-1.jpg" width="360" alt="云雾天狐幻境"> <img src="images/44-2.jpg" width="360" alt="云雾天狐幻境">
+
+</div>
+
+**📝 提示词:**
+
+```
+A cinematic fantasy scene from a slightly low, over-the-shoulder perspective. A lone young man stands on a weathered stone mountain viewpoint with a rustic wooden railing, seen mostly from behind, wearing a dark olive-green hooded jacket, black pants, and black shoes. He calmly raises one hand to gently touch the nose of an enormous celestial fox spirit descending from the sky. The spirit is an ethereal heavenly guardian made of white clouds, mist, and flowing strands of living light—not a solid fox. It has an elegant elongated face, peaceful closed eyes, a long slender muzzle, a tiny black nose, and two enormous, tall, perfectly upright triangular ears that define its silhouette. Only the head, neck, faint chest, and part of the front legs are visible while the rest of its colossal body dissolves seamlessly into the clouds, sky, and distant mountains. Fine glowing white strands flow naturally from its body into the atmosphere, creating a soft divine aura. Dramatic storm clouds fill the sky with a small opening where the hidden sun casts subtle warm rays and gentle rim light. Towering green karst mountains, drifting mist, and a winding road below. Ultra-realistic, photorealistic, cinematic, atmospheric, mystical, 8K.
+```
+
+> 💡 使用说明: 对比 GPT Image 2
+
+**👤 出处:** [@frametheory058](https://x.com/frametheory058) · [source](https://x.com/frametheory058/status/2076341429350404486)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.46 红底暗黑 webtoon 插画
+
+![Category](https://img.shields.io/badge/分类-风格转绘-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<img src="images/46-1.jpg" width="360" alt="红底暗黑 webtoon 插画"> <img src="images/46-2.jpg" width="360" alt="红底暗黑 webtoon 插画">
+
+</div>
+
+**📝 提示词:**
+
+```
+A dark, urban digital illustration featuring a bold solid red background, dramatic high-contrast lighting, a cold piercing gaze, and a sophisticated modern suit.
+
+2. Style DNA Priority
+
+Must Preserve
+
+- Bold solid red background
+- Mid-distance bust composition showing the face and upper body with calm yet powerful presence
+- Strong chiaroscuro with deep shadows and crisp highlights
+- Sharp, cold, expressionless (or slightly tense) eyes and facial expression
+- Modern tailored suit with refined urban elegance
+- Clean digital illustration with sharp edges, smooth gradients, and painterly rendering
+
+Preferred Elements
+
+- Close-up composition focusing on the head and shoulders
+- Detailed hair rendering and realistic strand texture
+- Accessories such as necklaces, chokers, and drop earrings
+- Dark overall palette accented with subtle red and brown shading
+
+Optional Elements
+
+- Hairstyle variations (braided hair, naturally flowing hair, etc.)
+- Slight hair movement and subtle surface texture
+
+Avoid Misinterpretation
+
+- Ordinary fashion illustrations
+- Romantic, fantasy, or exaggerated action poses
+- Photorealistic style or documentary-style natural lighting
+- Bright, soft pastel aesthetics
+
+3. Core Style Analysis
+
+Composition / Camera Distance
+
+Bust to waist-up composition, centered frontal framing with the face and upper torso clearly visible.
+
+Foreground / Midground / Background
+
+Minimal foreground, character occupies the midground, flat solid red background.
+
+Focus / Lens
+
+Everything remains sharp without shallow depth of field. Crisp outlines and clean digital illustration aesthetics.
+
+Lighting / Color
+
+Strong directional lighting creates deep facial and body shadows. The red background subtly reflects into the skin shadows.
+
+Color Grading
+
+Dominant red background. Natural skin tones with brown and dark green shadow hues. Moist, glossy highlights.
+
+Rendering Medium
+
+High-quality digital painting with clean linework, smooth gradients, realistic anatomy but unmistakably illustrated rather than photographic.
+
+Regional Visual Language
+
+Strong East Asian modern webtoon / illustration influence.
+
+Body Proportions
+
+Near-realistic proportions with a slightly elongated face and refined fashion-illustration silhouette.
+
+Iconic Pose
+
+Direct frontal gaze, calm posture, stern and composed expression.
+
+Costume
+
+Black pinstripe or solid black suit, black shirt, optional black tie, leather choker or necklace, silver drop earrings.
+
+Genre
+
+Dark urban media art, modern webtoon, action/drama promotional illustration.
+
+Expression
+
+Cold, focused eyes with firm lips and restrained tension.
+
+Camera Perspective
+
+Mostly frontal with only a subtle elevated viewing angle.
+
+Accent Colors
+
+Solid red background contrasted by dark suits, black-brown hair, red hair tie, and silver metallic accessories.
+
+Background
+
+Completely flat monochrome red without additional objects.
+
+Subject Emphasis
+
+Single centered character with no surrounding figures.
+
+Mood
+
+Strong presence with an isolated, solemn atmosphere.
+
+Surrealism
+
+Maintain realistic tension without introducing bizarre or fantasy elements.
+
+Object Scale
+
+Necklace, choker, and earrings should remain true to realistic size.
+
+Avoid Beautification
+
+Do not make the character cute, romantic, or overly softened.
+
+Medium Conversion Rule
+
+Remain an illustration only. Eliminate photographic textures.
+
+Linework
+
+Clean, crisp line art with simplified color blocking and clear facial features.
+
+Photorealism Prevention
+
+Avoid natural skin texture, photographic lighting, and realistic camera rendering.
+
+Frame Ratio
+
+Vertical 2:3 or 3:4 composition focused from above the knees to the head.
+
+Color Balance
+
+Solid red background, brown and dark green shadows, natural cream highlights.
+
+Color Restriction
+
+Never shift toward pastel, blue, or yellow-dominant palettes.
+
+Clothing
+
+Dark suit, black shirt, tie or choker, necklace, silver drop earrings.
+
+Motion
+
+Static pose with only subtle natural hair movement.
+
+4. Fixed Composition
+
+[Subject] is positioned in the lower-middle center of a vertical frame, shown from above the knees to the top of the head in a bust composition, facing directly forward with sharp focus against a solid red background.
+
+5. Fixed Lighting & Color Grading
+
+Strong one-sided directional lighting creates deep shadows across the face and body. The solid red background subtly influences the skin tones while maintaining calm red hues with brown and dark green shadows.
+
+6. Fixed Rendering
+
+Maintain a clean digital illustration style with crisp edges, smooth color gradients, and no photorealistic texture.
+
+7. Fixed Body Proportions
+
+Near-realistic proportions with a slightly elongated face, elegant fashion-illustration styling, slim physique, and masculine sophistication.
+
+8. Fixed Iconic Elements
+
+Sharp eyes, cold expression, minimalist black suit, silver earrings, necklace, and choker remain defining features.
+
+9. Fixed Expression
+
+Maintain a cold, focused gaze with tense lips and a stern, composed facial expression.
+
+10. Fixed Accent Colors & Accessories
+
+Keep the red hair tie, silver drop earrings, metallic choker, and necklace at their original scale and placement.
+
+11. Fixed Background
+
+A completely flat solid red background with no additional objects or people.
+
+12. Fixed Subject Hierarchy
+
+Only one central character. No surrounding figures or crowds.
+
+13. Fixed Mood
+
+Maintain urban sophistication and restrained tension. Avoid cute, romantic, or whimsical moods.
+
+14. Fixed Object Scale
+
+Accessories such as the choker, earrings, and necklace should remain realistic in size and placement.
+
+15. Fixed Medium Rule
+
+Do not convert into photorealism. Preserve the clean digital illustration aesthetic without realistic skin texture or natural lighting.
+
+16. Fixed Framing
+
+Vertical 2:3 or 3:4 aspect ratio. The character occupies over 70% of the frame from above the knees to the head.
+
+17. Fixed Color Distribution
+
+Solid red background, brown and dark green shadows, natural cream highlights, maintaining an overall deep red palette.
+
+18. Color Restriction
+
+Strictly preserve the dominant red palette with brown-green shadows. Do not shift toward pastel, yellow, or blue color grading.
+
+19. Main Prompt
+
+"[Subject], centered in a vertical 2:3 composition, shown from above the knees to the head in a bust-style framing, facing directly forward with a cold and tense expression. Bold solid red background with dramatic brown and dark green shadows created by strong directional lighting. Clean digital illustration style with sharp outlines, smooth gradients, and refined East Asian modern webtoon aesthetics without photorealistic textures. Wearing a black pinstripe or solid black tailored suit with a black shirt, optional black tie or leather choker, silver drop earrings, and a necklace maintained at accurate size and placement. Sharp eyes with a calm, piercing gaze. Hair flows naturally with a red hair tie accent. Flat monochrome background with no foreground objects or surrounding people. Sophisticated urban atmosphere. No photographic rendering or bright pastel colors."
+
+20. Negative Prompt
+
+"photorealistic photography, natural lighting, soft focus, overexposure, pastel colors, yellow tint, blue tint, smiling expression, cute aesthetics, romance, exaggerated anime proportions, excessive skin texture, DSLR beauty lighting, realistic hair rendering, busy background, glossy clothing, sportswear, cartoon facial expressions, artificial multi-light studio setup, full-body shot, environmental background, watercolor, oil painting, distorted anatomy, fantasy atmosphere"
+
+21. Style Keywords (12)
+
+- Solid Red Background
+- Digital Illustration
+- Cold Gaze
+- Dramatic Chiaroscuro
+- Modern Tailored Suit
+- Bust Composition
+- Sharp Linework
+- Urban Mood
+- Choker & Necklace
+- Silver Accessories
+- East Asian Webtoon Style
+- Stern Expression
+```
+
+**👤 出处:** [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [source](https://x.com/ChillaiKalan__/status/2076523680860151863)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
 
@@ -906,6 +1353,288 @@ A rugged man in his 50s inside a wet industrial corridor, facing three-quarter l
 ```
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285182530342930)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.31 御姐风暗调时尚特写
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/31-1.jpg" width="360" alt="御姐风暗调时尚特写">
+
+</div>
+
+**📝 提示词:**
+
+```
+这是一张极致写实的轻奢时尚面部及肩颈特写肖像，整体以暗调氛围感为主，风格冷艳雅致，光影层次丰富柔和，流动光影勾勒出舒展流畅的人物轮廓。场景采用电影级轮廓光搭配局部柔光补光，明暗层次细腻，点缀细碎珠光高光与通透质感反光，叠加细腻复古胶片颗粒质感，打造高级雅致的氛围感，写实质感饱满，兼具朦胧梦幻的视觉效果。
+ 
+主体为年轻东亚女性，利落银灰蓝色渐变狼尾短发，慵懒偏分碎刘海修饰脸型。五官明艳立体，眉骨线条舒展，眼型修长灵动，唇形饱满柔和，面部轮廓利落精致，兼具柔美与大气气场。身形线条匀称舒展，乳房丰满优美曲线分明，整体气质从容自信，神态松弛大方。皮肤为通透冷调白皙质感，细腻紧致，保留自然真实的皮肤肌理，哑光质感中透出细腻柔光，质感真实高级。妆容为精致浓淡相宜的御姐风格，精致眼妆搭配淡调腮红，唇色温润饱满，眼神从容沉静，神态带着清冷疏离的氛围感，气质神秘优雅。
+ 
+面部点缀轻奢艺术装饰细节，眉心搭配精致金属质感花钿，眼尾点缀碎钻珠光花卉配饰，脸颊辅以极简线条爱心装饰，搭配细腻闪钻纹路点缀，珠光质感细腻内敛，设计精致考究，轻奢质感高级不俗，与整体妆容自然融合，无廉价卡通化设计。
+ 
+构图采用中景全身视角，聚焦面部与肩颈区域，黑色真丝吊带晚礼服，突出身材曲线，低角度微仰拍摄，人物正视镜头，单手轻抬举香槟酒杯，修长指尖自然舒展，形成柔和前景虚化，透视层次分明，画面视觉张力饱满，对标高端时尚杂志特写大片质感。
+ 
+整体主色调为深邃暗色系，搭配冷调酒红、自然裸肤色调、银白珠光高光、淡蓝紫通透反光点缀，低饱和度高级质感，柔焦朦胧、光泽温润，暗部层次饱满，亮部通透精致。8K超高清画质，极致写实细节，完整保留原生皮肤纹理，电影级细腻胶片颗粒质感，潮流轻奢人像美学，画幅比例9:16。
+```
+
+**👤 出处:** [@PixelAigc](https://x.com/PixelAigc) · [source](https://x.com/PixelAigc/status/2075362386949947827)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.34 多语言海报文字替换
+
+![Category](https://img.shields.io/badge/分类-信息图与教育-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/34-1.jpg" width="360" alt="多语言海报文字替换"> <img src="images/34-2.jpg" width="360" alt="多语言海报文字替换">
+
+</div>
+
+**📝 提示词:**
+
+```
+Using the uploaded Japanese movie poster as the reference image, automatically detect all Japanese text and replace it with natural, readable English while preserving the original meaning. Do not redesign the poster.
+```
+
+> 💡 使用说明: 图像编辑技巧，需参考图
+
+**👤 出处:** [@EyeingAI](https://x.com/EyeingAI) · [source](https://x.com/EyeingAI/status/2075550621181317267)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.35 柔光 pastel 室内人像
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/35-1.jpg" width="360" alt="柔光 pastel 室内人像">
+
+</div>
+
+**📝 提示词:**
+
+```
+9:16, photorealistic close-up indoor portrait, soft natural window light, pale aqua wall background, low-contrast pastel color grading, gentle shadows, clean fresh lifestyle photography.
+
+Young adult East Asian woman, long fluffy black wavy hair, loose messy strands across her face and lips, delicate doll-like face, large clear dark eyes, fair luminous skin, peach blush on cheeks and nose, glossy peach pouty lips, subtle natural makeup.
+
+She sits casually on the floor with knees raised in the foreground, wearing a white ribbed sleeveless tank top and loose gray-green pants. Both hands lifted near her face, playful cute pout expression, looking directly at the camera, intimate candid mood, soft focus, realistic skin texture, shallow depth of field.
+```
+
+**👤 出处:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2075565735275794897)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.36 红金古风 cosplay
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/36-1.jpg" width="360" alt="红金古风 cosplay"> <img src="images/36-2.jpg" width="360" alt="红金古风 cosplay">
+
+</div>
+
+**📝 提示词:**
+
+```
+A photograph of a beautiful young East Asian woman in her early 20s cosplaying an anime-style character, standing on an outdoor stone staircase at dusk. She has long, wavy dark brown hair with side bangs, styled with a pair of red pointed hair ornaments near the crown. Delicate features with soft makeup — large warm brown eyes, glossy pink lips in a gentle smile, a small pink cherry-blossom decal on her left shoulder. She wears a black cord choker with a round golden bell pendant, red dangling earrings, gold bangle bracelets, and a thin red string bracelet. She has an attractive figure shown in an elaborate red-and-gold traditional-fantasy costume — an off-shoulder sleeveless red top with gold trim and ruffled pink accents at the upper arms, detached puffed sleeves, a wide brown leather belt with red buttons at the waist cinched over the outfit, an ornate knotted gold cord and tasseled ornament with a small glass orb hanging at the front, and a short red skirt with white and gold floral embroidery and a high side slit revealing her thigh. She stands facing the camera, both arms relaxed and slightly open at her sides, weight even. Behind her, a wide grey stone staircase leads up into a blurred background of warm red lantern light, greenery, and rocky garden walls, softly out of focus. Warm golden-hour lighting with a reddish ambient glow. Shot at eye level, full-body vertical framing, 50mm lens, shallow depth of field, natural skin texture, vivid saturated colors, glossy cosplay photography aesthetic.
+```
+
+> 💡 使用说明: 对比 GPT Image 2
+
+**👤 出处:** [@johnAGI168](https://x.com/johnAGI168) · [source](https://x.com/johnAGI168/status/2075591097493918202)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.37 雪中回眸人像
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/37-1.jpg" width="360" alt="雪中回眸人像">
+
+</div>
+
+**📝 提示词:**
+
+```
+Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfall, looking back over her shoulder at the camera. Long dark brown wavy hair with loose strands blowing across her face, snowflakes resting naturally on her hair and shoulders. Thick charcoal gray knitted scarf wrapped around her neck, black textured winter coat. Soft pink lips, defined natural eyebrows, subtle makeup, light blue-gray eyes with a calm expression. Warm golden winter sunlight creates soft rim lighting against a blurred snowy forest background. Shallow depth of field, cinematic composition, 85mm lens, f/1.8, high dynamic range, photorealistic, DSLR quality. Natural skin texture with visible pores, fine peach fuzz, subtle skin imperfections, realistic subsurface scattering, gentle tonal variation, no plastic skin, no excessive smoothing, no beauty filter, true-to-life complexion, crisp eye detail, lifelike facial features. Cold winter atmosphere, soft bokeh, ultra-detailed, 8K.
+```
+
+**👤 出处:** [@rovvmut_](https://x.com/rovvmut_) · [source](https://x.com/rovvmut_/status/2075619983837831390)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.38 月夜檐廊人像
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/38-1.jpg" width="360" alt="月夜檐廊人像"> <img src="images/38-2.jpg" width="360" alt="月夜檐廊人像">
+
+</div>
+
+**📝 提示词:**
+
+```
+Long flowing dark hair with soft waves, natural and effortless beauty, soft glowing skin, same facial features exactly as reference.
+
+A beautiful young Japanese woman with long flowing dark hair, wearing a fitted black tank top and casual black shorts, relaxed and unposed, sitting casually on the engawa (wooden veranda) of a traditional Japanese house at night, leaning back slightly with one leg bent, looking down softly at her phone or simply resting with a calm, natural gaze not looking at the moon.
+
+The full moon glows softly in the background sky above the rooftop, purely as ambient scenery.
+
+Cinematic movie-grade shot, shallow depth of field with creamy bokeh, slow dolly-in camera movement, soft moonlight rim lighting mixed with warm ambient glow from paper shoji lanterns inside the house, subtle film grain, volumetric moonlight rays filtering through surrounding trees, color graded like a Denis Villeneuve film deep indigo and warm amber tones, 35mm anamorphic lens.
+```
+
+**👤 出处:** [@Cia0_exe](https://x.com/Cia0_exe) · [source](https://x.com/Cia0_exe/status/2075632375858659717)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.40 摩天楼仰角街拍
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/40-1.jpg" width="360" alt="摩天楼仰角街拍">
+
+</div>
+
+**📝 提示词:**
+
+```
+Ultra realistic cinematic street photograph of a confident young woman standing between towering modern skyscrapers in a dense financial district. Captured from an extreme low angle perspective, making the dark glass and steel buildings rise dramatically around her and converge toward the cloudy blue sky. She has shoulder length curly black hair and wears a deep burgundy leather jacket over a clean white high neck top. Her expression is serious, calm, and determined as she looks upward toward something beyond the frame.
+
+The woman occupies the lower center of the composition while the massive architecture dominates the surrounding space, creating a strong sense of ambition, pressure, and scale. Blurred silhouettes of commuters move through the background, adding natural city energy without distracting from the subject. Cool overcast daylight, deep blue and charcoal tones, subtle warm reflections inside the buildings, soft directional light across her face, realistic skin texture, natural curls, detailed leather grain, authentic fabric folds, atmospheric depth, cinematic shadows, shallow depth of field, 20mm wide angle lens, f/2.8, slight edge distortion, handheld editorial photography, high dynamic range, subtle film grain, photorealistic full frame camera quality, no artificial beauty filter, no plastic skin, no CGI appearance, ultra detailed, 8K.
+```
+
+**👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2075922805573751264)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.41 红纱丽宫廷人像
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/41-1.jpg" width="360" alt="红纱丽宫廷人像"> <img src="images/41-2.jpg" width="360" alt="红纱丽宫廷人像">
+
+</div>
+
+**📝 提示词:**
+
+```
+Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich deep crimson red silk saree with a matching sleeveless blouse featuring subtle floral jacquard embroidery and a muted gold border. She is standing beside an intricately carved ivory stone pillar in a heritage palace corridor during golden hour, gazing softly into the distance with a calm, dreamy expression. Her hair is styled in a neat low bun adorned with a single fresh red rose, with a few loose curled strands framing her face. Smooth glowing natural skin, expressive brown eyes, soft pink lips, minimal makeup. Warm sunlight passes through ornate carved jali patterns, casting intricate floral shadows across her face, neck, shoulders, blouse, and saree. Soft cinematic backlight, creamy bokeh, shallow depth of field, luxurious heritage architecture blurred in the background, elegant composition, warm golden color grading, highly detailed silk texture, photorealistic skin, natural facial proportions, HDR, 8K, DSLR quality, 85mm portrait lens, f/1.8, ultra sharp focus on the face, premium editorial fashion photography
+```
+
+**👤 出处:** [@aaliya_va](https://x.com/aaliya_va) · [source](https://x.com/aaliya_va/status/2075924410423271453)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.43 古风书阁纪实人像
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/43-1.jpg" width="360" alt="古风书阁纪实人像"> <img src="images/43-2.jpg" width="360" alt="古风书阁纪实人像">
+
+</div>
+
+**📝 提示词:**
+
+```
+古风纪实摄影 · 书阁梯影午后  竖版 9:16，超写实真人摄影，国际高级时尚杂志 Editorial Photography 与中国古风书阁生活纪实摄影融合风格，复古 CCD 数码相机直闪结合自然窗光拍摄，仿佛在旧书阁中随手记录的一张真实生活影像，具有安静、克制的电影质感与轻微胶片颗粒。  成年中国古风女子，约二十三岁，气质清雅沉静，五官精致自然，鹅蛋脸，杏眼柔和，鼻梁挺秀，唇形自然，肤色冷白至象牙白，真实皮肤纹理保留，整体不过度修饰。乌黑长发自然垂落，仅以一支木簪轻轻固定部分发丝，发丝随室内微风轻轻摆动。  人物身形线条柔和圆润饱满，整体比例协调，肩颈修长，锁骨线条柔和，身体姿态自然放松，四肢线条修长真实，整体具有国际高级时尚杂志 Editorial Photography 的人体雕塑感与东方古典气质。  身穿浅月白与淡墨青宋制汉服，上襦为交领轻纱材质，质地轻薄柔和，下身百迭裙层层展开，自然垂落在木质地板与台阶之间，衣料绣有极淡的云纹与书卷暗纹，整体色调克制安静。腰间系浅色丝绦，佩戴白玉小坠饰与简约香囊。  人物坐在古代书阁木质台阶上，身体微微侧向窗边光源，一只手轻轻扶着身旁木质书架，另一只手自然放在膝上，手边散落几卷古籍与宣纸卷轴。人物微微抬头看向镜头，神情平静内敛，带有轻微思绪感。  摄影采用低机位略仰拍，35mm 广角镜头，利用书架纵深结构与阶梯线条形成强透视构图。前景为木质台阶与散落书页，中景为人物主体，背景为高耸书阁结构与格栅窗光。  窗外午后阳光穿过木格窗，形成条状光影落在人物衣料与地面上，光影层次清晰。室内空气带有轻微尘埃感，使光束可见，增强真实感与空间深度。  整体色彩以浅木色、月白、墨青、纸白与灰棕为主，低饱和高调曝光，CCD彩噪、轻微胶片颗粒、柔和锐化与年代数码压缩质感并存。  画面重点包括：书阁纵深结构、阶梯透视、窗格光影、汉服垂坠感、书卷元素、CCD直闪纪实摄影、高级 Editorial 构图。  右下角加入低调手写艺术签名「DeepBlue」。 
+ Negative Prompt： anime, cartoon, illustration, CGI, 3D render, game graphics, plastic skin, AI face, over smoothing, beauty filter, HDR artifacts, oversharpen, low resolution, JPEG artifacts, watermark, logo, QR code, text, date stamp, border, duplicate person, extra limbs, extra fingers, missing fingers, bad anatomy, distorted proportions, unnatural pose, floating objects, cloth clipping, hair clipping, modern architecture, modern objects, neon colors, electronics, vehicles, blur, motion blur, fisheye distortion, messy background.
+```
+
+> 💡 使用说明: 对比 GPT Image 2
+
+**👤 出处:** [@DeepBlueAIX](https://x.com/DeepBlueAIX) · [source](https://x.com/DeepBlueAIX/status/2076309938255593666)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.45 滑板运动风人像
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/45-1.jpg" width="360" alt="滑板运动风人像"> <img src="images/45-2.jpg" width="360" alt="滑板运动风人像">
+
+</div>
+
+**📝 提示词:**
+
+```
+{
+    "subject_and_outfit_formula": "A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.",
+    "background_and_environment": "The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.",
+    "camera_angle_and_composition": "An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.",
+    "face_reference": "Use the uploaded photo as the primary reference for facial structure and features.",
+    "camera_and_vintage_style_settings": "Standard high-quality digital photography, crisp and clear."
+}
+```
+
+> 💡 使用说明: JSON 结构提示词
+
+**👤 出处:** [@Kashberg_0](https://x.com/Kashberg_0) · [source](https://x.com/Kashberg_0/status/2076518233956622760)
+
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
+
+---
+
+### No.47 摩天轮波西米亚夏日
+
+![Category](https://img.shields.io/badge/分类-人像与头像-8A2BE2) ![Model](https://img.shields.io/badge/model-seedream--5.0--pro-blue)
+
+<div align="center">
+
+<img src="images/47-1.jpg" width="360" alt="摩天轮波西米亚夏日"> <img src="images/47-2.jpg" width="360" alt="摩天轮波西米亚夏日">
+
+</div>
+
+**📝 提示词:**
+
+```
+Shot from a low-angle perspective. The woman is wearing a boho-chic outfit and standing in front of a giant Ferris wheel with colorful gondolas against a clear blue sky.
+She is dressed in a light-colored crop top and shorts with pom-pom trim, layered with a fringed denim jacket, a wide leather belt, a white wide-brim hat, and round dark sunglasses. Her long wavy hair is loose.
+She strikes a dynamic pose: one hand is holding the brim of her hat while the other is extended out to the side.
+The background is filled with the metal spokes and framework of the Ferris wheel, with the colorful gondolas occupying much of the scene.
+Realistic smartphone photo, taken on a hot summer day in bright direct sunlight, with warm color grading, slightly overexposed highlights, natural shadows, a strong sense of summer heat, natural-looking skin, subtle film grain, slightly sun-faded colors, and the feel of a candid, spontaneous snapshot.
+The face, identity, appearance, age, and all unique characteristics of the person from the original photo must be preserved exactly. The person is not looking at the camera.
+```
+
+**👤 出处:** [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [source](https://x.com/ChillaiKalan__/status/2076205946674766094)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
 
