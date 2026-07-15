@@ -16,7 +16,7 @@
 
 | 📝 Total Prompts | ⭐ Featured | 🏷️ Categories | 🔄 Last Updated |
 |---|---|---|---|
-| **47** | **14** | **6** | 2026-07-14 08:38 UTC |
+| **47** | **14** | **6** | 2026-07-15 10:17 UTC |
 
 ## 🗂️ Browse by Category
 
@@ -1652,7 +1652,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Prompt
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-14 08:38 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-15 10:17 UTC</sub>
 
 <br><sub>One API for leading text, image & video models · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedream)</sub>
 
