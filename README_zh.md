@@ -16,7 +16,7 @@
 
 | 📝 提示词总数 | ⭐ 精选 | 🏷️ 分类数 | 🔄 最近更新 |
 |---|---|---|---|
-| **47** | **14** | **6** | 2026-07-16 10:25 UTC |
+| **47** | **14** | **6** | 2026-07-17 09:30 UTC |
 
 ## 🗂️ 按分类浏览
 
@@ -1652,7 +1652,7 @@ The face, identity, appearance, age, and all unique characteristics of the perso
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-16 10:25 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-07-17 09:30 UTC</sub>
 
 <br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedream)</sub>
 
