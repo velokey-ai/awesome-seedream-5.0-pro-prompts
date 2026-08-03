@@ -132,9 +132,10 @@ def entry_md(p, t, lang):
             if f.lower().endswith((".mp4", ".mov", ".webm")):
                 cells.append(f'<a href="images/{f}">{vlabel}</a>')
             else:
-                cells.append(f'<img src="images/{f}" width="360" alt="{title}">')
+                cells.append(f'<img src="images/{f}" width="360" loading="lazy" alt="{title}">')
         lines += ["<div align=\"center\">", "", " ".join(cells), "", "</div>", ""]
-    lines += [f"**{t['prompt']}:**", "", "```", p["prompt"].strip(), "```", ""]
+    # prompt 默认折叠，点击展开（避免一条占满整屏）
+    lines += ["<details>", f"<summary>{t['prompt']}</summary>", "", "```", p["prompt"].strip(), "```", "", "</details>", ""]
     if p.get("needs_input"):
         lines += [t["needs_input"], ""]
     if p.get("note"):

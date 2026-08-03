@@ -105,11 +105,12 @@
 
 <div align="center">
 
-<img src="images/8-1.jpg" width="360" alt="未来运动鞋电商广告"> <img src="images/8-2.jpg" width="360" alt="未来运动鞋电商广告">
+<img src="images/8-1.jpg" width="360" loading="lazy" alt="未来运动鞋电商广告"> <img src="images/8-2.jpg" width="360" loading="lazy" alt="未来运动鞋电商广告">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Ultra-realistic premium sports footwear commercial advertisement featuring a modern running shoe floating horizontally at the center of a futuristic cyan and deep blue gradient background. The sneaker is displayed in a clean side profile with ultra-detailed breathable knit mesh texture, glossy air-cushion sole, realistic stitching, premium materials, and crisp branding. Soft cinematic studio lighting creates realistic reflections, shadows, and depth.
@@ -120,6 +121,8 @@ Minimal modern UI elements surround the shoe, including elegant category labels,
 
 Use a premium blue color palette with turquoise gradients, high-end sports branding aesthetics, luxury product presentation, Apple-inspired minimalism, futuristic web UI, perfect spacing, clean typography, ultra-sharp details, cinematic lighting, soft ambient glow, 3D depth, photorealistic textures, commercial advertising quality, Behance award-winning layout, 8K, HDR, octane render, Unreal Engine, global illumination, ray-traced reflections, ultra-realistic product photography.
 ```
+
+</details>
 
 **👤 出处:** [@iamrealsnow](https://x.com/iamrealsnow) · [source](https://x.com/iamrealsnow/status/2075063569486598281)
 
@@ -133,11 +136,12 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 
 <div align="center">
 
-<img src="images/11-1.jpg" width="360" alt="编辑风动感海报模板">
+<img src="images/11-1.jpg" width="360" loading="lazy" alt="编辑风动感海报模板">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Create a {ASPECT_RATIO} full-bleed editorial action poster for [Brand Name]. The brand’s visual identity follows these must-visible traits: a bright outdoor photograph with a clear open sky dominating a large portion of the frame; enormous warm-cream extra-condensed block letters cropped by the canvas and sitting behind the main subject; one oversized action figure cutting diagonally across the layout and breaking through the text layer; a low or close wide-angle camera angle that makes the foreground feel physically imposing; secondary text, large numerals, or stacked words in cream placed along bottom and side edges; compact white editorial microcopy in short tight clusters anchored to strong grid positions; one vivid accent color concentrated on the hero product or outfit while the environment stays sky-blue and neutral; hard midday sunlight with crisp shadows and high-contrast edges; a layered structure alternating between flat graphic type and real photography; minimal ornament — only small marks, rules, or separators; a dense, kinetic layout with the action dominant, type second, and microcopy third.
@@ -157,6 +161,8 @@ Avoid: {SOURCE_CONTENT_TO_AVOID}. Also exclude: real brand logos, watermarks, QR
 Generate as a 4K Ultra-high-resolution raster image.
 ```
 
+</details>
+
 > 💡 使用说明: 参数化模板 {占位符}
 
 **👤 出处:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [source](https://x.com/AI__TSUBAKI/status/2075128188964159539)
@@ -171,15 +177,18 @@ Generate as a 4K Ultra-high-resolution raster image.
 
 <div align="center">
 
-<img src="images/12-1.jpg" width="360" alt="真实产品×涂鸦创意广告"> <img src="images/12-2.jpg" width="360" alt="真实产品×涂鸦创意广告">
+<img src="images/12-1.jpg" width="360" loading="lazy" alt="真实产品×涂鸦创意广告"> <img src="images/12-2.jpg" width="360" loading="lazy" alt="真实产品×涂鸦创意广告">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading — like a quick sketch on paper. A cartoon character is [SCENE], interacting naturally with the real product as if it exists in their world. At the top, the [BRAND] slogan in clean bold sans-serif typography. At the bottom, the real brand logo rendered in full original colors and proportions. Photorealistic product + bold black doodle art, perfect seamless blend between drawn and real elements, witty scroll-stopping brand ad aesthetic, high contrast, minimalist composition, trending creative ad design.
 ```
+
+</details>
 
 > 💡 使用说明: 参数化模板 [占位符]
 
@@ -195,15 +204,18 @@ Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean whit
 
 <div align="center">
 
-<img src="images/16-1.jpg" width="360" alt="电话亭 Y2K 暗系人像"> <img src="images/16-2.jpg" width="360" alt="电话亭 Y2K 暗系人像">
+<img src="images/16-1.jpg" width="360" loading="lazy" alt="电话亭 Y2K 暗系人像"> <img src="images/16-2.jpg" width="360" loading="lazy" alt="电话亭 Y2K 暗系人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 {   "subject": {     "description": "A young adult woman crouching inside a retro public phone booth, wearing a black-and-gray striped cat-ear knit hood and dark Y2K styling. She holds a green public phone receiver and looks up toward a camera shooting from above. The overall style mixes goth-lolita, Y2K emo, Japanese alternative doll fashion, and harsh-sunlight mobile snapshot realism.",     "mirror_rules": "Not a mirror selfie; do not show a mirror or a phone covering the face. Keep the direct upward gaze toward a high-angle camera.",     "age": "young adult, early 20s appearance; avoid underage or overly childlike styling",     "expression": {       "eyes": {         "look": "large glossy eyes with strong black eyeliner, quiet and slightly melancholic, with a doll-like hollow softness",         "energy": "low-intensity, focused, faintly distant, as if caught right after picking up the phone",         "direction": "looking upward into the camera from below"       },       "mouth": {         "position": "lips naturally closed or lightly relaxed",         "energy": "controlled, quiet, not smiling broadly"       },       "overall": "cool, sweet-dark, slightly emo and still"     },     "face": {       "preserve_original": "Preserve the small face, soft chin, large eye proportion, thick bangs across the forehead, heavy eyeliner, lower-eye shadow, pale pink blush, and softly glossy lip makeup.",       "makeup": "Makeup inspired by East Asian goth-lolita and Y2K emo styling: lifted black eyeliner, clear lower eyeliner, under-eye shadow, separated lashes, slight smoky eye contour, pale pink blush, and glossy cool-rose to nude-pink gradient lips."     }   },   "hair": {     "color": "black or very dark brown-black",     "style": "short to medium-length hair ending around the shoulders and neck, with thick broken bangs over the forehead and side strands close to the cheeks",     "effect": "slightly messy with real flyaways and mild frizz; strong sunlight creates fine highlights on the bangs and crown, while the shadowed areas stay deep black"   },   "body": {     "frame": "slender and small-framed, with a light shoulder and neck line; the high-angle wide lens makes the head and eyes more prominent while compressing the body downward",     "waist": "the waist and midriff are mostly covered by the top and bottom, with only a small edge of skin possibly visible between garments; do not make it the main exposed area",     "chest": "the chest is mostly covered by the gray knit cropped top and black glossy inner layer, with collarbones, shoulders, and the upper chest edge visible; do not exaggerate volume",     "legs": "both legs are clearly visible in a crouched pose, with large areas of front thigh and knee-adjacent skin exposed; black crisscross straps and lace or net-like hosiery details wrap the legs, with chunky high-top shoes or boots",     "skin": {       "visible_areas": "Visible skin includes the face, neck, collarbones and upper chest edge, both shoulders, parts of the upper arms, both hands and fingers, both thighs, knee-adjacent areas, and leg skin seen between the straps. The back, buttocks, and full waist-hip line are not visible.",       "tone": "fair cool ivory skin, extremely bright under direct sunlight, with slight overexposure on the thighs and hands; shadow areas carry subtle blue-gray and green glass reflections",       "texture": "the skin should feel soft, fine, and sun-warmed, with a faint powdery surface, real pores, and natural tonal transitions; the thigh skin should read as soft and warm under harsh light, not plastic or overly smoothed",       "lighting_effect": "hard direct sunlight enters diagonally through the phone booth glass and frame, hitting the face, shoulders, hands, thighs, and knees with crisp bright patches, sharp shadows, local overexposure, and strong light-dark separation"     }   },   "pose": {     "position": "crouching or half-kneeling on the narrow phone booth floor, body leaning slightly forward, head lifted toward the camera above",     "base": "one hand holds the green public phone receiver near the side of the face, while the other hand supports the body on the floor with naturally spread fingers; both legs bend into the lower part of the frame",     "overall": "the pose is constrained by the booth, quiet and slightly tense, as if she was suddenly photographed from above; keep the body tilt and cramped framing instead of a polished studio pose"   },   "clothing": {     "top": {       "type": "black-and-gray striped cat-ear knit hood, gray knit cropped top, black glossy inner or corset-like top, and black-gray striped long arm warmers",       "color": "black, charcoal gray, pale gray-white stripes, and gray knit",       "details": "the hood has clear pointed cat ears, the shoulders are exposed, the arm warmers have wide horizontal knit stripes, and the chest area layers gray ribbed knit over black glossy fabric, creating a dark academy and emo streetwear feeling",       "effect": "the knit fabric has visible ribbing, thickness, and yarn texture; the black glossy inner layer catches sunlight and contrasts with the matte knit"     },     "bottom": {       "type": "black shorts or mini bottom, crisscross leg straps, lace/net hosiery details, and chunky high-top shoes or boots",       "color": "mostly black with worn gray-black footwear",       "details": "black waist belt with metal buckle, thin black straps crossing around the legs, shoes with multiple laces, metal eyelets, buckles, and worn surfaces",       "effect": "the bottom and leg straps create strong graphic lines across the legs; the heavy footwear adds a rough worn streetwear texture"     }   },   "accessories": {     "headwear": "black-and-gray striped cat-ear knit hood fitted around the head, with clearly visible cat ears",     "device": "green public telephone receiver and green coiled phone cord, the receiver held in one hand",     "prop": "retro public phone booth or phone installation with a cream-colored body, green phone casing, glass panels, metal rail, and door frame"   },   "photography": {     "camera_style": "real wide-angle mobile-phone photo, as if a friend shot from above or just outside the booth at close range; keep the social-media snapshot feeling, slight compression, sharpening, noise, overexposure, and glass glare",     "angle": "strong high-angle overhead view, camera above and in front of the subject, focus near the face and phone receiver; wide-angle perspective makes the face, eyes, hand, and legs slightly distorted by proximity",     "shot_type": "close high-angle full-body-to-three-quarter composition, including the cat-ear hood, torso, legs, and shoes, with the subject boxed in by the phone booth structure",     "aspect_ratio": "vertical 3:4 mobile photo ratio",     "texture": "harsh sunlight phone snapshot texture, blown highlights, hard shadows, visible glass reflections, floor stains, wear marks, and edge compression",     "lighting": "the main light is hard direct sunlight entering diagonally from outside the phone booth, not studio soft light; the sun passes through glass and metal frames, creating blocky highlights and deep shadows on the face, shoulders, sleeves, hands, legs, and floor",     "depth_of_field": "moderate depth of field; the subject is clear, while the phone machine, glass, door frame, floor stains, and outdoor red-white ground pattern remain recognizable, not heavily blurred"   },   "background": {     "setting": "inside a retro public phone booth or street-side phone installation, a narrow space enclosed by glass, metal frames, and a green telephone",     "wall_color": "green phone casing, cream-colored structure, gray concrete floor, blue-gray glass reflections, and red-white ground patterns outside",     "elements": [       "green public telephone",       "green coiled phone cord",       "cream-colored booth structure",       "glass panels",       "metal rail and door frame",       "rectangular patches of strong sunlight",       "floor stains and worn marks",       "red-white outdoor ground pattern",       "blurred white chair or outdoor object"     ],     "atmosphere": "bright, cramped, retro public-facility atmosphere with an alternative fashion snapshot quality",     "lighting": "ambient light comes from strong outdoor sun and glass reflections; the booth interior has high contrast, and the green phone slightly tints the darker areas"   },   "the_vibe": {     "energy": "sweet-cold, quiet, dark-cute, cramped but tense",     "mood": "as if she had just crouched down to answer a phone call; the previous voice still sits inside the receiver, she looks up now, and she may hang up in the next second",     "aesthetic": "goth-lolita, Y2K emo, Japanese cat-ear street style, alternative doll-like fashion, harsh-sunlight mobile snapshot",     "authenticity": "keep imperfections: crowded framing, overhead pressure, blown highlights, floor stains, glass glare, and slight wide-angle distortion in the hands and legs",     "intimacy": "the photographer feels very close, looking down from above the booth, creating a private and suddenly discovered feeling",     "story": "She picked up the green receiver inside a retro phone booth, sunlight cut into the narrow space, and the shutter clicked the moment she looked up.",     "caption_energy": "“The call was not over yet, but the sunlight had already reached my knees.”"   },   "constraints": {     "must_keep": [       "black-and-gray striped cat-ear hood",       "black medium-short hair with broken bangs",       "large-eyed heavy eyeliner doll makeup",       "green public phone receiver",       "green coiled phone cord",       "high-angle overhead shot",       "narrow phone booth space",       "harsh direct sunlight and hard shadows",       "black-and-gray striped long arm warmers",       "gray knit cropped top",       "black glossy inner layer",       "black shorts or mini bottom",       "crisscross leg straps",       "chunky high-top shoes or boots",       "real mobile-phone photo texture"     ],     "avoid": [       "underage styling",       "oversexualized pose",       "commercial softbox lighting",       "over-smoothed skin",       "plastic skin",       "perfectly clean background",       "excessive blur",       "anime illustration style",       "missing green telephone",       "missing cat-ear hood",       "extra watermark or garbled text",       "wrong number of fingers"     ]   },   "negative_prompt": [     "underage look",     "oversexualized pose",     "plastic skin",     "over-retouched",     "studio softbox",     "perfect symmetry",     "clean empty background",     "missing green phone",     "missing cat-ear hood",     "wrong phone color",     "anime style",     "cartoon",     "excessive blur",     "extra fingers",     "distorted hands",     "fake watermark"   ] }
 ```
+
+</details>
 
 **👤 出处:** [@underwoodxie96](https://x.com/underwoodxie96) · [source](https://x.com/underwoodxie96/status/2075110445443338615)
 
@@ -217,11 +229,12 @@ Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean whit
 
 <div align="center">
 
-<img src="images/19-1.jpg" width="360" alt="林间国风神女"> <img src="images/19-2.jpg" width="360" alt="林间国风神女">
+<img src="images/19-1.jpg" width="360" loading="lazy" alt="林间国风神女"> <img src="images/19-2.jpg" width="360" loading="lazy" alt="林间国风神女">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 创作一张竖幅 9:16 的古风幻想人像，主题是林间神女。成年东方女性，精致清冷的古典美感，高挽发髻或半挽发，点缀金色发簪、玉石、珠链、少量红粉饰物。服装是多层汉服与幻想古装结合，不固定单一颜色和制式，可以是齐胸襦裙、交领襦裙、对襟衫裙、宽袖大袖衫、披帛、半透明纱罗外层、刺绣织锦内层等组合；衣服颜色可以多样变化，如月白、玉青、藕粉、朱砂红、黛蓝、浅紫灰、米杏、湖绿、古金等，但都被林间逆光和冷青灰空气统一起来，不要变成现代彩色舞台服。
@@ -232,6 +245,8 @@ Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean whit
 
 综合色彩的重点不是固定服装颜色，而是统一的林间光色：深墨绿树影、冷青灰空气、乳白逆光、古金细节和低饱和衣料颜色互相融合。暗部要深而有层次，高光可以梦幻泛白，但眼睛、嘴唇、发丝、织物纹理和刺绣边缘保持清晰。真实摄影与东方 fantasy costume editorial 结合，浅景深、轻微柔焦、自然镜头眩光、细腻颗粒、湿润空气感，华丽但自然，不要现代物件，不要花海背景，不要统一模板化配色，不要平面插画感。
 ```
+
+</details>
 
 **👤 出处:** [@coco007ZUHA](https://x.com/coco007ZUHA) · [source](https://x.com/coco007ZUHA/status/2075252520784375873)
 
@@ -245,11 +260,12 @@ Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean whit
 
 <div align="center">
 
-<img src="images/20-1.jpg" width="360" alt="Seedream 杂志跨页信息图">
+<img src="images/20-1.jpg" width="360" loading="lazy" alt="Seedream 杂志跨页信息图">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Create a premium double-page technology magazine spread introducing "Seedream 5.0 Pro": ultra-clean editorial layout, modern typography, white background with blue and cyan accents, luxury print magazine aesthetic, highly structured information hierarchy, flawless typography, perfectly readable text, crisp vector graphics, magazine-quality composition
@@ -306,6 +322,8 @@ FEATURED USE CASES
 Include elegant charts, workflow diagrams, iconography, comparison callout boxes, editorial pull quotes, numbered feature cards, print-ready CMYK aesthetic, ultra-sharp typography, perfect spelling, highly legible small text, sophisticated technology magazine design
 ```
 
+</details>
+
 **👤 出处:** [@azed_ai](https://x.com/azed_ai) · [source](https://x.com/azed_ai/status/2075263036856975743)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
@@ -318,11 +336,12 @@ Include elegant charts, workflow diagrams, iconography, comparison callout boxes
 
 <div align="center">
 
-<img src="images/21-1.jpg" width="360" alt="三视图角色设定">
+<img src="images/21-1.jpg" width="360" loading="lazy" alt="三视图角色设定">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Create a realistic character sheet  with a strict three-column layout. The image must be divided into three equal vertical sections, each taking exactly 33.3% of the width. The same character must appear in all three sections with perfect consistency in face, body proportions, hairstyle, skin tone, and outfit design.
@@ -338,6 +357,8 @@ Character: a female sci-fi bounty hunter in her early 30s, athletic build, tan s
 Style: highly photorealistic, realistic sci-fi character sheet, clean studio presentation, neutral background, soft even studio lighting, believable materials, realistic skin texture, no weapon in hand, no action pose, no illustration, no extra objects, no overlapping, precise clean layout
 ```
 
+</details>
+
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285324327219388)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
@@ -350,15 +371,18 @@ Style: highly photorealistic, realistic sci-fi character sheet, clean studio pre
 
 <div align="center">
 
-<img src="images/29-1.jpg" width="360" alt="科幻电影海报 Lazarus One">
+<img src="images/29-1.jpg" width="360" loading="lazy" alt="科幻电影海报 Lazarus One">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A highly photorealistic live-action sci-fi movie poster showing a battle-worn humanoid combat robot kneeling protectively over a small girl in a misty swamp on an alien planet. The robot feels physically real and heavy, with scratched metal armor, chipped paint, mud, dents, exposed pistons, hydraulic joints, worn cables, and subtle signs of battlefield damage. Its single glowing eye lens is the emotional focal point, locked onto the girl’s gaze. The girl looks real and human, with natural skin texture, slightly dirty cheeks, messy hair, damp clothing, and a soft warm firelight illuminating her face. Composition: robot and girl placed in the lower third, with a vast swamp landscape stretching behind them and two large moons dominating the upper two-thirds. Lighting is grounded and cinematic: pale moonlight from behind creates a realistic rim light across the robot’s silhouette and shoulders, while a low foreground fire casts warm light onto the girl’s face and reflects subtly on the robot’s damaged torso. Thick atmospheric fog, wet ground, shallow water reflections, muted blue-green color grade, emotional and solemn tone, realistic scale, practical texture detail, premium Hollywood poster finish. Bottom-center title in clean sci-fi serif: "LAZARUS ONE", with a small tagline above, ultra-realistic, no illustration, no painterly look, no cartoon styling
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285197768286298)
 
@@ -372,15 +396,18 @@ A highly photorealistic live-action sci-fi movie poster showing a battle-worn hu
 
 <div align="center">
 
-<img src="images/32-1.jpg" width="360" alt="四象眼眸四屏写真"> <img src="images/32-2.jpg" width="360" alt="四象眼眸四屏写真">
+<img src="images/32-1.jpg" width="360" loading="lazy" alt="四象眼眸四屏写真"> <img src="images/32-2.jpg" width="360" loading="lazy" alt="四象眼眸四屏写真">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 以眼部特写参考图作为唯一人物眼睛参考，生成一张 3:4 四屏构图东方幻想艺术眼眸写真。 四个画面分别代表中国传统四象：青龙、朱雀、白虎、玄武。 整体风格： 东方神话美学 × 高级美妆广告 × 超现实艺术摄影。 保持真实人类眼睛结构，高清微距摄影，真实皮肤纹理，精致睫毛，细腻眼妆，不改变眼型比例。 四屏人物眼睛保持同一身份，同一角度，同一构图。 第一屏：青龙 · 东方春生 眼眸呈现青绿色翡翠质感虹膜，仿佛一块天然东方玉石。 虹膜内部隐藏微型东方山水世界： 青龙盘旋于云雾之间，青竹、桃花、流水融入眼底。 睫毛化作细长竹叶与青色羽纹，眼角有细小桃花花瓣飘落。 脸部肌肤带有柔和春日光泽，青绿色流光环绕眼眸。 画面中央加入： “青龙” 白色东方篆刻艺术字体。 整体： 青绿色调，清雅、灵动、生命感。 第二屏：朱雀 · 炽焰盛夏 眼眸呈现赤金色琥珀质感。 虹膜内部像燃烧的小型凤凰世界： 朱雀展翅飞翔，金色火焰、凤凰羽毛、夕阳云霞融合其中。 睫毛带有细微火焰羽片质感，眼角漂浮金色羽毛。 皮肤被暖金色光线照亮，形成高级珠宝广告质感。 画面中央加入： “朱雀” 白色鎏金东方艺术字体。 整体： 红金色调，华丽、热烈、神圣。 第三屏：白虎 · 金秋肃杀 眼眸呈现金黄色琥珀瞳孔。 虹膜内部是一片东方秋日森林： 白虎身影隐藏于金色山林之间， 枫叶、古树、金色尘埃漂浮。 睫毛融合白色虎纹与秋叶纹理， 眉眼之间有银白色纹路若隐若现。 光线如夕阳穿过森林，形成电影感暖光。 画面中央加入： “白虎” 白色水墨艺术字体。 整体： 金黄、银白、深棕色调，神秘、高贵。 第四屏：玄武 · 冰雪玄境 眼眸呈现冰蓝色水晶质感。 虹膜内部是一片东方冰雪世界： 玄武神兽沉睡于冰川湖泊， 雪山、冰晶、寒雾融入眼底。 睫毛覆盖透明冰晶纹理， 眼角有细小雪花与银色光点。 冷蓝月光照射脸庞， 形成冰雪女神般的高级视觉。 画面中央加入： “玄武” 白色书法艺术字体。 整体： 冰蓝、银白色调，冷冽、纯净、空灵。 统一画面要求 四屏排列整齐，像高级艺术展览海报。 背景为极简东方留白空间， 加入淡淡水墨纹理、云雾、金属浮雕质感。 文字设计： 东方篆刻字体， 白色半透明艺术字， 不要现代商业字体。 摄影： macro eye photography, ultra realistic skin texture, cinematic lighting, luxury beauty campaign, 8K detail, high fashion editorial. 禁止： 卡通风格、动漫眼睛、夸张变形眼球、低质量CG、塑料皮肤、错误文字、额外眼睛。 比例： 3:4 生成图片
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -396,11 +423,12 @@ A highly photorealistic live-action sci-fi movie poster showing a battle-worn hu
 
 <div align="center">
 
-<img src="images/33-1.jpg" width="360" alt="1980s 胡子膏广告分镜">
+<img src="images/33-1.jpg" width="360" loading="lazy" alt="1980s 胡子膏广告分镜">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 STYLE
@@ -432,6 +460,8 @@ CONTINUITY
 The moustache is naturally drooping in panels 1–4 and symmetrically lifted in panel 5. Preserve the exact same man, jar, label design, bathroom and morning lighting throughout. All typography must be clean, readable and limited to the exact quoted text.
 ```
 
+</details>
+
 > 💡 使用说明: 6 格分镜 storyboard
 
 **👤 出处:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2075505502230900856)
@@ -446,11 +476,12 @@ The moustache is naturally drooping in panels 1–4 and symmetrically lifted in 
 
 <div align="center">
 
-<img src="images/39-1.jpg" width="360" alt="漫画等距剖面模型"> <img src="images/39-2.jpg" width="360" alt="漫画等距剖面模型">
+<img src="images/39-1.jpg" width="360" loading="lazy" alt="漫画等距剖面模型"> <img src="images/39-2.jpg" width="360" loading="lazy" alt="漫画等距剖面模型">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 2x2 grid, do this for 4 famous manga: RENDER_CHAIN = "[$INPUT_TOPIC :: iconic_interior :: isometric_cutaway_diorama]"
@@ -469,6 +500,8 @@ OUTPUT = (RENDER_CHAIN :: TRANSFORM) - NEGATIVE
 RENDER: single miniature isometric diorama image.
 ```
 
+</details>
+
 > 💡 使用说明: 对比 Nano Banana Pro
 
 **👤 出处:** [@Gdgtify](https://x.com/Gdgtify) · [source](https://x.com/Gdgtify/status/2075856368246902834)
@@ -483,11 +516,12 @@ RENDER: single miniature isometric diorama image.
 
 <div align="center">
 
-<img src="images/42-1.jpg" width="360" alt="City Jump 街头海报">
+<img src="images/42-1.jpg" width="360" loading="lazy" alt="City Jump 街头海报">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout.
@@ -517,6 +551,8 @@ Add a decorative cobalt-blue barcode graphic beneath the left text.
 Style: contemporary streetwear campaign, skateboarding photography, Gen-Z fashion editorial, experimental sports advertising, bold typography, dynamic forced perspective, vibrant blue and green color palette
 ```
 
+</details>
+
 **👤 出处:** [@LinusEkenstam](https://x.com/LinusEkenstam) · [source](https://x.com/LinusEkenstam/status/2076273553964687462)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
@@ -529,15 +565,18 @@ Style: contemporary streetwear campaign, skateboarding photography, Gen-Z fashio
 
 <div align="center">
 
-<img src="images/44-1.jpg" width="360" alt="云雾天狐幻境"> <img src="images/44-2.jpg" width="360" alt="云雾天狐幻境">
+<img src="images/44-1.jpg" width="360" loading="lazy" alt="云雾天狐幻境"> <img src="images/44-2.jpg" width="360" loading="lazy" alt="云雾天狐幻境">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A cinematic fantasy scene from a slightly low, over-the-shoulder perspective. A lone young man stands on a weathered stone mountain viewpoint with a rustic wooden railing, seen mostly from behind, wearing a dark olive-green hooded jacket, black pants, and black shoes. He calmly raises one hand to gently touch the nose of an enormous celestial fox spirit descending from the sky. The spirit is an ethereal heavenly guardian made of white clouds, mist, and flowing strands of living light—not a solid fox. It has an elegant elongated face, peaceful closed eyes, a long slender muzzle, a tiny black nose, and two enormous, tall, perfectly upright triangular ears that define its silhouette. Only the head, neck, faint chest, and part of the front legs are visible while the rest of its colossal body dissolves seamlessly into the clouds, sky, and distant mountains. Fine glowing white strands flow naturally from its body into the atmosphere, creating a soft divine aura. Dramatic storm clouds fill the sky with a small opening where the hidden sun casts subtle warm rays and gentle rim light. Towering green karst mountains, drifting mist, and a winding road below. Ultra-realistic, photorealistic, cinematic, atmospheric, mystical, 8K.
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -553,11 +592,12 @@ A cinematic fantasy scene from a slightly low, over-the-shoulder perspective. A 
 
 <div align="center">
 
-<img src="images/46-1.jpg" width="360" alt="红底暗黑 webtoon 插画"> <img src="images/46-2.jpg" width="360" alt="红底暗黑 webtoon 插画">
+<img src="images/46-1.jpg" width="360" loading="lazy" alt="红底暗黑 webtoon 插画"> <img src="images/46-2.jpg" width="360" loading="lazy" alt="红底暗黑 webtoon 插画">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A dark, urban digital illustration featuring a bold solid red background, dramatic high-contrast lighting, a cold piercing gaze, and a sophisticated modern suit.
@@ -790,6 +830,8 @@ Strictly preserve the dominant red palette with brown-green shadows. Do not shif
 - Stern Expression
 ```
 
+</details>
+
 **👤 出处:** [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [source](https://x.com/ChillaiKalan__/status/2076523680860151863)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
@@ -802,11 +844,12 @@ Strictly preserve the dominant red palette with brown-green shadows. Do not shif
 
 <div align="center">
 
-<img src="images/1-1.jpg" width="360" alt="暗调梦幻高定全身像">
+<img src="images/1-1.jpg" width="360" loading="lazy" alt="暗调梦幻高定全身像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 This is a highly photorealistic, high-fashion full-body portrait with an overall dark-toned, dreamy, and hazy atmosphere, filled with the flowing beauty of light and shadow. The scene uses refined artificial lighting that is soft yet richly layered, with sparkling highlights, crystal-clear reflections, and a subtle lomo film texture in certain areas, creating a surreal and luxurious fashion mood that feels both realistic and dreamlike.
@@ -820,6 +863,8 @@ The composition is shot from a low angle, with the subject’s full body visible
 The overall color palette is dominated by rich, dark tones, accented with nude pink, skin-tone hues, pearlescent highlights, silvery-white reflections, and sparkling details. The image has a low-contrast tonal range, with soft focus, haze, luminosity, and a luxurious finish, resembling a meticulously retouched fashion editorial. The photo should feel highly realistic, rich in detail, with natural skin texture, in 8K ultra-high definition, with a trendy high-end internet aesthetic, vertical 9:16.
 ```
 
+</details>
+
 **👤 出处:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2074856963591290979)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
@@ -832,11 +877,12 @@ The overall color palette is dominated by rich, dark tones, accented with nude p
 
 <div align="center">
 
-<img src="images/2-1.jpg" width="360" alt="真实车内自拍首帧"> <img src="images/2-2.jpg" width="360" alt="真实车内自拍首帧">
+<img src="images/2-1.jpg" width="360" loading="lazy" alt="真实车内自拍首帧"> <img src="images/2-2.jpg" width="360" loading="lazy" alt="真实车内自拍首帧">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 生成一张真实感车内自拍视频首帧照片，横屏 16:9。画面像固定在副驾驶前方或中控台附近的小型广角相机拍摄，轻微广角，近距离车内第一视角，像社交媒体短视频截图。
@@ -846,6 +892,8 @@ The overall color palette is dominated by rich, dark tones, accented with nude p
 整体风格：真实摄影，高质量手机或运动相机车内自拍视频首帧，清晰自然，轻微广角畸变，真实车内空间，社交媒体短视频质感，不像棚拍写真。
 避免：低头、侧脸、正在插安全带、正在拉安全带、字幕、文字、水印、多余人物、夸张姿势、夸张摆拍、安全带消失、方向盘变形、手指畸形、眼镜变形、车内结构错乱、背景高速运动、夜景、动漫风、CG 感、塑料皮肤、过度美颜。
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -861,11 +909,12 @@ The overall color palette is dominated by rich, dark tones, accented with nude p
 
 <div align="center">
 
-<img src="images/3-1.jpg" width="360" alt="逆光雀斑特写自拍"> <img src="images/3-2.jpg" width="360" alt="逆光雀斑特写自拍">
+<img src="images/3-1.jpg" width="360" loading="lazy" alt="逆光雀斑特写自拍"> <img src="images/3-2.jpg" width="360" loading="lazy" alt="逆光雀斑特写自拍">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Extreme close-up selfie of a 22-year-old woman with piercing blue-green eyes, light dusting of freckles across the nose and cheeks, messy hair with visible flyaways caught in the wind, squinting slightly against the sun, casual outdoor setting, harsh golden hour side-lighting creating deep natural shadows, candid moment, unfiltered, authentic Instagram aesthetic, f/1.8, shallow depth of field, slight digital grain.
@@ -873,6 +922,8 @@ Extreme close-up selfie of a 22-year-old woman with piercing blue-green eyes, li
 
 Physical details: visible skin texture and pores, fine peach fuzz, natural under-eye creases, subtle facial asymmetry, realistic hands adjusting hair (5 fingers, natural pose), blurred urban bokeh background with lens flare.
 ```
+
+</details>
 
 **👤 出处:** [@kaanakz](https://x.com/kaanakz) · [source](https://x.com/kaanakz/status/2074988990373974246)
 
@@ -886,11 +937,12 @@ Physical details: visible skin texture and pores, fine peach fuzz, natural under
 
 <div align="center">
 
-<img src="images/4-1.jpg" width="360" alt="赛博朋克安卓海报">
+<img src="images/4-1.jpg" width="360" loading="lazy" alt="赛博朋克安卓海报">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A sci-fi cyberpunk graphic design poster. In the center, a striking portrait of a female android with glossy, liquid chrome skin. A vivid swirling streak of neon orange, yellow, and pink liquid paint brush stroke horizontally covers her eyes, soft smudged color overlay with smooth flowing pigment texture, no cracks or broken facial surfaces.
@@ -899,6 +951,8 @@ The background is a dark, textured charcoal gray. Behind the central figure, lar
 
 Semi-transparent glassy spheres with grid textures overlap the foreground, creating depth. The overall mood is high-tech, dystopian, and avant-garde.
 ```
+
+</details>
 
 **👤 出处:** [@ComfyUI](https://x.com/ComfyUI) · [source](https://x.com/ComfyUI/status/2075027793491226677)
 
@@ -912,11 +966,12 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 
 <div align="center">
 
-<img src="images/5-1.jpg" width="360" alt="玻璃花 editorial 海报">
+<img src="images/5-1.jpg" width="360" loading="lazy" alt="玻璃花 editorial 海报">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 An editorial graphic design poster on a solid black background. The central elements are exquisite, translucent 3D glass flowers with iridescent, holographic petals in shades of electric blue, violet, and soft purple.
@@ -925,6 +980,8 @@ In the background, large, bold white sans-serif typography reads "Seedream 5.0 P
 
 The layout is filled with clean blocks of small white placeholder body text and delicate thin white vector lines, creating a futuristic, tech-organic informational poster. High-contrast, sharp details, refractive glass textures, glossy finish, professional UI/UX design aesthetic.
 ```
+
+</details>
 
 **👤 出处:** [@ComfyUI](https://x.com/ComfyUI) · [source](https://x.com/ComfyUI/status/2075027810666914062)
 
@@ -938,11 +995,12 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <div align="center">
 
-<img src="images/6-1.jpg" width="360" alt="湖边 Vespa 复古人像"> <img src="images/6-2.jpg" width="360" alt="湖边 Vespa 复古人像">
+<img src="images/6-1.jpg" width="360" loading="lazy" alt="湖边 Vespa 复古人像"> <img src="images/6-2.jpg" width="360" loading="lazy" alt="湖边 Vespa 复古人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A straight-on medium-wide cinematic shot at eye-level, static locked frame, 4:5 vertical, captures a sun-bright late-morning inside a Lake Como villa courtyard room, camera perpendicular to the wall plane with no tilt, the atmosphere crisp and alive like the minute before heading out for gelato, the wall behind the scene a warm hand-troweled sable butter-yellow lime plaster slightly uneven with soft sun-bleach along the upper right edge, the floor matte burnt-terracotta chili tile grounding the frame, grout lines aged and dusty.
@@ -955,6 +1013,8 @@ She wears a fitted cream football jersey with subtle gold embroidery and thin sp
 
 Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp morning sunlight, cinematic color grading, highly detailed, photorealistic, Slim Aarons style with modern World Cup energy.
 ```
+
+</details>
 
 > 💡 使用说明: 对比 Nano Banana Pro
 
@@ -970,15 +1030,18 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 
 <div align="center">
 
-<img src="images/7-1.jpg" width="360" alt="儿童黏土玩具广告">
+<img src="images/7-1.jpg" width="360" loading="lazy" alt="儿童黏土玩具广告">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A messy fun kids advertisement poster. A laughing young girl age 6 with clay all over her hands proudly shows a lumpy clay sculpture beside a giant colorful clay set box 3x her height overflowing with clay blocks in every color, "SQUISHCRAFT" written in big squishy letters on the box. Bright cheerful craft room background with clay sculptures tools and colorful handprints on the walls. Big squishy rounded typography "SQUISHCRAFT" in rainbow colors filling the background. Tagline bottom: "Get your hands messy." Small text top-right corner reads "Designed with Seedream 5.0 Pro " in grey. Photorealistic, fun kids craft product commercial, bright warm playroom lighting.
 ```
+
+</details>
 
 **👤 出处:** [@Strength04_X](https://x.com/Strength04_X) · [source](https://x.com/Strength04_X/status/2075063250656621054)
 
@@ -992,15 +1055,18 @@ A messy fun kids advertisement poster. A laughing young girl age 6 with clay all
 
 <div align="center">
 
-<img src="images/9-1.jpg" width="360" alt="静奢风街拍时尚"> <img src="images/9-2.jpg" width="360" alt="静奢风街拍时尚">
+<img src="images/9-1.jpg" width="360" loading="lazy" alt="静奢风街拍时尚"> <img src="images/9-2.jpg" width="360" loading="lazy" alt="静奢风街拍时尚">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A stylish young woman with long layered black hair and soft curtain bangs, wearing sleek black rectangular sunglasses, an oversized chocolate-brown tailored blazer with matching wide-leg trousers, and a fitted mocha-brown camisole. She carries a large structured ivory leather tote bag with gold hardware over one shoulder. Standing confidently with one hand in her pocket, looking back over her shoulder. Shot in a modern open-air parking structure beneath a concrete overpass, with parked cars softly blurred in the background. Natural midday sunlight creates soft shadows and clean highlights. Minimalist luxury aesthetic, quiet luxury fashion, effortless street style, neutral earth-tone color palette, premium editorial photography, shallow depth of field, ultra-realistic skin texture, subtle makeup with glossy nude lips, high-end fashion campaign, cinematic composition, 85mm lens, f/2.0, soft bokeh, crisp focus, HDR, RAW, 8K, Vogue-style luxury editorial.
 ```
+
+</details>
 
 **👤 出处:** [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [source](https://x.com/ChillaiKalan__/status/2075071088137208063)
 
@@ -1014,15 +1080,18 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <div align="center">
 
-<img src="images/10-1.jpg" width="360" alt="球衣质感产品静物"> <img src="images/10-2.jpg" width="360" alt="球衣质感产品静物">
+<img src="images/10-1.jpg" width="360" loading="lazy" alt="球衣质感产品静物"> <img src="images/10-2.jpg" width="360" loading="lazy" alt="球衣质感产品静物">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 room, jersey fabric, football boots, towel, and water droplets nearby, dramatic overhead light, post match victory mood, realistic textures, premium sports refreshment campaign, sharp product focus, warm cinematic color grading, 4K, no text, no watermark.
 ```
+
+</details>
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2075082266695582012)
 
@@ -1036,15 +1105,18 @@ room, jersey fabric, football boots, towel, and water droplets nearby, dramatic 
 
 <div align="center">
 
-<img src="images/13-1.jpg" width="360" alt="旧金山黄昏韩系人像">
+<img src="images/13-1.jpg" width="360" loading="lazy" alt="旧金山黄昏韩系人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 a Korean girl in her twenties on her iPhone in San Francisco at sunset
 ```
+
+</details>
 
 **👤 出处:** [@mattworkman](https://x.com/mattworkman) · [source](https://x.com/mattworkman/status/2074850550349222210)
 
@@ -1058,15 +1130,18 @@ a Korean girl in her twenties on her iPhone in San Francisco at sunset
 
 <div align="center">
 
-<img src="images/14-1.jpg" width="360" alt="蓝图技术分解图"> <img src="images/14-2.jpg" width="360" alt="蓝图技术分解图">
+<img src="images/14-1.jpg" width="360" loading="lazy" alt="蓝图技术分解图"> <img src="images/14-2.jpg" width="360" loading="lazy" alt="蓝图技术分解图">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A technical drawing of a futuristic sports car in blueprint style. Include line drawings of the sports car from the front, side, and rear views, exploded parts sketches, parts assembly diagrams, and structural diagrams of disassembled components. Use abundant lines and measurement values to indicate the dimensions of each part, with grayscale tones expressing the overall sketch relationship. In addition to the main design, also show scattered thumbnails from different angles.
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -1082,11 +1157,12 @@ A technical drawing of a futuristic sports car in blueprint style. Include line 
 
 <div align="center">
 
-<img src="images/15-1.jpg" width="360" alt="日式田园电影感空镜"> <img src="images/15-2.jpg" width="360" alt="日式田园电影感空镜"> <img src="images/15-3.jpg" width="360" alt="日式田园电影感空镜">
+<img src="images/15-1.jpg" width="360" loading="lazy" alt="日式田园电影感空镜"> <img src="images/15-2.jpg" width="360" loading="lazy" alt="日式田园电影感空镜"> <img src="images/15-3.jpg" width="360" loading="lazy" alt="日式田园电影感空镜">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Cinematic film still,
@@ -1106,6 +1182,8 @@ no people,
 Shunji Iwai inspired aesthetic
 ```
 
+</details>
+
 > 💡 使用说明: 对比 GPT Image 2 / Nano Banana Pro
 
 **👤 出处:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [source](https://x.com/AI__TSUBAKI/status/2076624942553330149)
@@ -1120,15 +1198,18 @@ Shunji Iwai inspired aesthetic
 
 <div align="center">
 
-<img src="images/17-1.jpg" width="360" alt="咖啡馆街拍甜酷少女"> <img src="images/17-2.jpg" width="360" alt="咖啡馆街拍甜酷少女">
+<img src="images/17-1.jpg" width="360" loading="lazy" alt="咖啡馆街拍甜酷少女"> <img src="images/17-2.jpg" width="360" loading="lazy" alt="咖啡馆街拍甜酷少女">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A realistic vertical 3:4 smartphone social-media street photo of a young adult woman sitting on a wooden step outside an urban cafe. Behind her are gray metal window frames and large glass panes showing the cafe interior: warm yellow lights, dining guests, wooden chairs and tables, distressed concrete walls, and tree reflections on the glass. The image should feel like a real casual snapshot, not a clean studio shoot, with natural background clutter, reflections, slight glare, and mild social-media compression.  She faces the camera while seated in a relaxed, slightly asymmetrical pose. Her body leans a little toward the left side of the frame. One leg bends sideways and the other bends naturally forward, with white socks and chunky black-and-white sneakers visible. One hand is raised near her hair, while the other holds a clear tall glass containing a pink-orange drink with a white straw. A phone with a white case rests on her lap, and a black handbag sits beside her.  She wears a black-and-white thin-strap cropped camisole with a white base, black trim, black straps, a black-and-white comic graphic, halftone dot texture, a speech bubble, and small bow details near the straps. The hem sits above the waist, revealing a small strip of midriff. Her bottoms are low-rise washed black-gray denim shorts with distressed patches, faded areas, and frayed edges, giving a Y2K streetwear feeling.  Her visible skin includes the shoulders, collarbones, upper chest edge, arms, hands, a small section of midriff, the side hip area partly covered by shorts, thighs, knees, and lower legs; the back and buttocks are not visible. The skin tone is fair with a warm pink undertone, with subtle natural redness on the cheeks and knees. The skin should look fine, soft, semi-matte, and real, with slight texture rather than plastic smoothing. Soft outdoor diffused light illuminates the front, while warm cafe lights behind the glass create faint golden reflections on the hair, shoulders, and arms.  Her styling follows a K-beauty / J-fashion sweet-cool idol-inspired direction: dark brown-black fluffy hair with airy bangs, softly curled ends, loose face-framing strands, and a black-and-white polka-dot hair clip on the left side of the image. Makeup includes a clean fair base, visible aegyo-sal, fine black eyeliner, long lashes, pink blush, and glossy rose lips. She looks into the camera with one eye open and the other playfully winking, lips softly closed with a slight smile and subtle pout.  Camera feel: taken by a friend standing in front of her with a smartphone, using a 26-35mm equivalent lens, front-facing slightly high angle, close environmental portrait framing, seated full-body view with shoes mostly included. Keep a fairly deep depth of field, clear subject, detailed cafe background, natural imperfections, reflections, mild noise, and authentic casual-photo texture.
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -1144,11 +1225,12 @@ A realistic vertical 3:4 smartphone social-media street photo of a young adult w
 
 <div align="center">
 
-<img src="images/18-1.jpg" width="360" alt="午后街拍侧逆光人像"> <img src="images/18-2.jpg" width="360" alt="午后街拍侧逆光人像">
+<img src="images/18-1.jpg" width="360" loading="lazy" alt="午后街拍侧逆光人像"> <img src="images/18-2.jpg" width="360" loading="lazy" alt="午后街拍侧逆光人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 主体：一位25岁左右的中国女性，鹅蛋脸，黑色及肩微卷长发被风吹起几缕，穿米白色oversized西装外套内搭黑色吊带，锁骨清晰
@@ -1170,6 +1252,8 @@ A realistic vertical 3:4 smartphone social-media street photo of a young adult w
 约束：无文字水印，无畸形手指，避免过度磨皮的塑料感皮肤
 ```
 
+</details>
+
 > 💡 使用说明: 对比 GPT Image 2
 
 **👤 出处:** [@johnAGI168](https://x.com/johnAGI168) · [source](https://x.com/johnAGI168/status/2075228822887157932)
@@ -1184,11 +1268,12 @@ A realistic vertical 3:4 smartphone social-media street photo of a young adult w
 
 <div align="center">
 
-<img src="images/22-1.jpg" width="360" alt="黑白漫画分格页">
+<img src="images/22-1.jpg" width="360" loading="lazy" alt="黑白漫画分格页">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Create a single full-page manga comic layout, not a poster and not a single illustration. The output must be a real manga page with multiple panels, black and white only, authentic Japanese manga style, clean ink linework, screentones, dramatic shadows, speed lines, expressive close-ups, and clear sequential storytelling. Right-to-left reading flow.
@@ -1197,6 +1282,8 @@ Story scene: in a rainy urban alley at night, a young male protagonist confronts
 
 Use varied panel sizes and cinematic framing. Include screentones, cross-hatching, rain effects, impact lines, and manga-style speech bubbles. Keep the page visually balanced and readable, with strong storytelling and a polished published manga feel
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285308497957179)
 
@@ -1210,15 +1297,18 @@ Use varied panel sizes and cinematic framing. Include screentones, cross-hatchin
 
 <div align="center">
 
-<img src="images/23-1.jpg" width="360" alt="极简高定时尚特写">
+<img src="images/23-1.jpg" width="360" loading="lazy" alt="极简高定时尚特写">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A highly photorealistic close-up editorial fashion portrait of a young woman with a strong modern look, clean bone structure, slick center-parted hair, and striking minimal makeup focused on the eyes. She wears a structured white fashion piece with sculptural lines and silver accessories. Camera: close-up crop, slightly off-center composition, 85mm lens, shallow depth of field. Lighting: crisp directional studio light from the side with controlled shadow shaping the face, subtle reflector fill, soft highlight on the cheekbone. Background: cool light gray studio backdrop. Color palette: white, silver, cool gray, pale taupe, natural skin tones. Premium avant-garde magazine photography, sharp, modern, elegant, realistic skin texture, no illustration, no cartoon look
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285291875942571)
 
@@ -1232,15 +1322,18 @@ A highly photorealistic close-up editorial fashion portrait of a young woman wit
 
 <div align="center">
 
-<img src="images/24-1.jpg" width="360" alt="黏土定格烘焙师">
+<img src="images/24-1.jpg" width="360" loading="lazy" alt="黏土定格烘焙师">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A charming claymation-style baker inside a cozy miniature bakery early in the morning, placing fresh bread into a small stone oven while flour dust floats through warm sunlight. Everything has a handcrafted stop-motion texture, including the walls, bread, tools, and character design. Gentle camera pan, whimsical movement, warm golden light, soft pastel tones, tactile clay textures, nostalgic and playful stop-motion film look
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285276700872933)
 
@@ -1254,15 +1347,18 @@ A charming claymation-style baker inside a cozy miniature bakery early in the mo
 
 <div align="center">
 
-<img src="images/25-1.jpg" width="360" alt="保时捷911汽车广告">
+<img src="images/25-1.jpg" width="360" loading="lazy" alt="保时捷911汽车广告">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A premium photorealistic automotive advertising photograph of a black Porsche 911 coupe parked in tall windswept grass under a vast moody sky. The car is shown from a low three-quarter side angle, front facing slightly to the right, emphasizing the iconic 911 silhouette, rounded headlights, sculpted hood, smooth roofline, wide rear haunches, glossy black paint, dark multi-spoke wheels, low-profile performance tires, tinted windows, and subtle illuminated headlights. The foreground grass partially covers the lower body, creating depth and texture. The background is minimal and elegant, with no buildings, no people, and no distractions, only an open field and a smooth gradient sky fading from pale gray near the horizon to deep charcoal blue above. Lighting is soft, cold, and atmospheric, with refined reflections across the hood, roofline, doors, wheels, and headlights. Color palette: black, charcoal, blue-gray, silver, muted steel tones. The image should feel quiet, expensive, cinematic, and refined, like a high-end Porsche magazine campaign. Sharp focus on the car, realistic reflections, premium commercial photography, clean composition, no text, no artificial CGI look, no illustration
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285260917723492)
 
@@ -1276,15 +1372,18 @@ A premium photorealistic automotive advertising photograph of a black Porsche 91
 
 <div align="center">
 
-<img src="images/26-1.jpg" width="360" alt="雨中武士电影镜头">
+<img src="images/26-1.jpg" width="360" loading="lazy" alt="雨中武士电影镜头">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A highly photorealistic cinematic image of a battle-worn samurai standing alone in a muddy village street moments before a duel, during heavy rain at dusk. His armor is scratched and wet, his face is calm but hardened, and one hand rests close to the sword hilt as he faces an unseen opponent just outside the frame. The village around him is realistic and sparse: wooden houses, puddles, torn banners, muddy ground, rainwater dripping from roof edges, and smoke lingering in the damp air. Camera: slightly low angle, medium shot, 50mm lens, strong subject focus with subtle background softness, composition centered on the samurai’s posture and readiness. Lighting: soft overcast dusk light with a dim cool sky tone, mixed with warm lantern glow from a nearby doorway reflecting faintly on wet armor and puddles. Color palette: muted earth tones, wet wood browns, iron gray, deep blue-gray sky, warm amber highlights. The scene should feel tense, restrained, and realistic, with natural rain interaction, authentic materials, and grounded historical atmosphere. No fantasy armor, no anime look, no exaggerated action posing
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285245402972404)
 
@@ -1298,15 +1397,18 @@ A highly photorealistic cinematic image of a battle-worn samurai standing alone 
 
 <div align="center">
 
-<img src="images/27-1.jpg" width="360" alt="1970s 纪实人像">
+<img src="images/27-1.jpg" width="360" loading="lazy" alt="1970s 纪实人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A highly photorealistic social documentary portrait captured as a 1970s 35mm color film photograph. An older Harlem resident sits on a folding chair outside a small corner store in the morning, reading a newspaper. The frame is close enough to show his weathered hands, textured skin, worn jacket, calm eyes, and the creases of the newspaper. In the background, softly blurred neighbors talk near brownstone buildings, children walk to school, and faded storefront signs suggest the rhythm of everyday neighborhood life. The image should feel candid, quiet, intimate, and observational, with no posing or dramatization. 1970s documentary photojournalism look, analog grain, faded color palette, soft natural light, gentle contrast, realistic imperfections, archival feel, no glamour, no illustration
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285229670199488)
 
@@ -1320,15 +1422,18 @@ A highly photorealistic social documentary portrait captured as a 1970s 35mm col
 
 <div align="center">
 
-<img src="images/28-1.jpg" width="360" alt="3D 动画毛怪衣柜">
+<img src="images/28-1.jpg" width="360" loading="lazy" alt="3D 动画毛怪衣柜">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A high-quality 3D animated feature film scene of a large gentle monster hiding awkwardly inside a child’s bedroom closet. The monster is fluffy, oversized, colorful, and harmless, with huge expressive eyes, small horns, rounded teeth, and a nervous smile. A little child sits on the bed holding a flashlight, surprised but not scared. The room has toys, storybooks, star stickers, soft blankets, warm night lamp light, and moonlight coming through the window. Emotional and comedic tone, rounded character design, soft fur simulation, warm cinematic lighting, stylized realism, polished animated family film look
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285213484359723)
 
@@ -1342,15 +1447,18 @@ A high-quality 3D animated feature film scene of a large gentle monster hiding a
 
 <div align="center">
 
-<img src="images/30-1.jpg" width="360" alt="80-90 年代 OVA 动漫">
+<img src="images/30-1.jpg" width="360" loading="lazy" alt="80-90 年代 OVA 动漫">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A rugged man in his 50s inside a wet industrial corridor, facing three-quarter left, silent and tense, eyes focused forward, beard stubble, damp hair, soaked jacket collar, wrinkles drawn with subtle anime linework. Everything in the image is 100% anime: character, corridor, lights, rain, fog, reflections, shadows, textures, and background. Adult 1980s-1990s anime OVA style, gritty hand-drawn cel animation, traditional painted anime background, inked outlines, cel shading, hand-painted industrial environment, muted colors, noir atmosphere. The corridor must be clearly illustrated, with stylized pipes, painted wet concrete, drawn steam, anime lighting, and soft painted bokeh from distant lamps. Cold rim light from back-right, warm painted glow on one cheek, dramatic anime shadows, cinematic anime frame, 16:9. Avoid photorealistic background, avoid live-action realism, avoid 3D render, avoid realistic photography
 ```
+
+</details>
 
 **👤 出处:** [@MayorKingAI](https://x.com/MayorKingAI) · [source](https://x.com/MayorKingAI/status/2075285182530342930)
 
@@ -1364,11 +1472,12 @@ A rugged man in his 50s inside a wet industrial corridor, facing three-quarter l
 
 <div align="center">
 
-<img src="images/31-1.jpg" width="360" alt="御姐风暗调时尚特写">
+<img src="images/31-1.jpg" width="360" loading="lazy" alt="御姐风暗调时尚特写">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 这是一张极致写实的轻奢时尚面部及肩颈特写肖像，整体以暗调氛围感为主，风格冷艳雅致，光影层次丰富柔和，流动光影勾勒出舒展流畅的人物轮廓。场景采用电影级轮廓光搭配局部柔光补光，明暗层次细腻，点缀细碎珠光高光与通透质感反光，叠加细腻复古胶片颗粒质感，打造高级雅致的氛围感，写实质感饱满，兼具朦胧梦幻的视觉效果。
@@ -1382,6 +1491,8 @@ A rugged man in his 50s inside a wet industrial corridor, facing three-quarter l
 整体主色调为深邃暗色系，搭配冷调酒红、自然裸肤色调、银白珠光高光、淡蓝紫通透反光点缀，低饱和度高级质感，柔焦朦胧、光泽温润，暗部层次饱满，亮部通透精致。8K超高清画质，极致写实细节，完整保留原生皮肤纹理，电影级细腻胶片颗粒质感，潮流轻奢人像美学，画幅比例9:16。
 ```
 
+</details>
+
 **👤 出处:** [@PixelAigc](https://x.com/PixelAigc) · [source](https://x.com/PixelAigc/status/2075362386949947827)
 
 ▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedream)（模型 id：`seedream-5.0-pro`）
@@ -1394,15 +1505,18 @@ A rugged man in his 50s inside a wet industrial corridor, facing three-quarter l
 
 <div align="center">
 
-<img src="images/34-1.jpg" width="360" alt="多语言海报文字替换"> <img src="images/34-2.jpg" width="360" alt="多语言海报文字替换">
+<img src="images/34-1.jpg" width="360" loading="lazy" alt="多语言海报文字替换"> <img src="images/34-2.jpg" width="360" loading="lazy" alt="多语言海报文字替换">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Using the uploaded Japanese movie poster as the reference image, automatically detect all Japanese text and replace it with natural, readable English while preserving the original meaning. Do not redesign the poster.
 ```
+
+</details>
 
 > 💡 使用说明: 图像编辑技巧，需参考图
 
@@ -1418,11 +1532,12 @@ Using the uploaded Japanese movie poster as the reference image, automatically d
 
 <div align="center">
 
-<img src="images/35-1.jpg" width="360" alt="柔光 pastel 室内人像">
+<img src="images/35-1.jpg" width="360" loading="lazy" alt="柔光 pastel 室内人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 9:16, photorealistic close-up indoor portrait, soft natural window light, pale aqua wall background, low-contrast pastel color grading, gentle shadows, clean fresh lifestyle photography.
@@ -1431,6 +1546,8 @@ Young adult East Asian woman, long fluffy black wavy hair, loose messy strands a
 
 She sits casually on the floor with knees raised in the foreground, wearing a white ribbed sleeveless tank top and loose gray-green pants. Both hands lifted near her face, playful cute pout expression, looking directly at the camera, intimate candid mood, soft focus, realistic skin texture, shallow depth of field.
 ```
+
+</details>
 
 **👤 出处:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2075565735275794897)
 
@@ -1444,15 +1561,18 @@ She sits casually on the floor with knees raised in the foreground, wearing a wh
 
 <div align="center">
 
-<img src="images/36-1.jpg" width="360" alt="红金古风 cosplay"> <img src="images/36-2.jpg" width="360" alt="红金古风 cosplay">
+<img src="images/36-1.jpg" width="360" loading="lazy" alt="红金古风 cosplay"> <img src="images/36-2.jpg" width="360" loading="lazy" alt="红金古风 cosplay">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 A photograph of a beautiful young East Asian woman in her early 20s cosplaying an anime-style character, standing on an outdoor stone staircase at dusk. She has long, wavy dark brown hair with side bangs, styled with a pair of red pointed hair ornaments near the crown. Delicate features with soft makeup — large warm brown eyes, glossy pink lips in a gentle smile, a small pink cherry-blossom decal on her left shoulder. She wears a black cord choker with a round golden bell pendant, red dangling earrings, gold bangle bracelets, and a thin red string bracelet. She has an attractive figure shown in an elaborate red-and-gold traditional-fantasy costume — an off-shoulder sleeveless red top with gold trim and ruffled pink accents at the upper arms, detached puffed sleeves, a wide brown leather belt with red buttons at the waist cinched over the outfit, an ornate knotted gold cord and tasseled ornament with a small glass orb hanging at the front, and a short red skirt with white and gold floral embroidery and a high side slit revealing her thigh. She stands facing the camera, both arms relaxed and slightly open at her sides, weight even. Behind her, a wide grey stone staircase leads up into a blurred background of warm red lantern light, greenery, and rocky garden walls, softly out of focus. Warm golden-hour lighting with a reddish ambient glow. Shot at eye level, full-body vertical framing, 50mm lens, shallow depth of field, natural skin texture, vivid saturated colors, glossy cosplay photography aesthetic.
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -1468,15 +1588,18 @@ A photograph of a beautiful young East Asian woman in her early 20s cosplaying a
 
 <div align="center">
 
-<img src="images/37-1.jpg" width="360" alt="雪中回眸人像">
+<img src="images/37-1.jpg" width="360" loading="lazy" alt="雪中回眸人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfall, looking back over her shoulder at the camera. Long dark brown wavy hair with loose strands blowing across her face, snowflakes resting naturally on her hair and shoulders. Thick charcoal gray knitted scarf wrapped around her neck, black textured winter coat. Soft pink lips, defined natural eyebrows, subtle makeup, light blue-gray eyes with a calm expression. Warm golden winter sunlight creates soft rim lighting against a blurred snowy forest background. Shallow depth of field, cinematic composition, 85mm lens, f/1.8, high dynamic range, photorealistic, DSLR quality. Natural skin texture with visible pores, fine peach fuzz, subtle skin imperfections, realistic subsurface scattering, gentle tonal variation, no plastic skin, no excessive smoothing, no beauty filter, true-to-life complexion, crisp eye detail, lifelike facial features. Cold winter atmosphere, soft bokeh, ultra-detailed, 8K.
 ```
+
+</details>
 
 **👤 出处:** [@rovvmut_](https://x.com/rovvmut_) · [source](https://x.com/rovvmut_/status/2075619983837831390)
 
@@ -1490,11 +1613,12 @@ Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfa
 
 <div align="center">
 
-<img src="images/38-1.jpg" width="360" alt="月夜檐廊人像"> <img src="images/38-2.jpg" width="360" alt="月夜檐廊人像">
+<img src="images/38-1.jpg" width="360" loading="lazy" alt="月夜檐廊人像"> <img src="images/38-2.jpg" width="360" loading="lazy" alt="月夜檐廊人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Long flowing dark hair with soft waves, natural and effortless beauty, soft glowing skin, same facial features exactly as reference.
@@ -1505,6 +1629,8 @@ The full moon glows softly in the background sky above the rooftop, purely as am
 
 Cinematic movie-grade shot, shallow depth of field with creamy bokeh, slow dolly-in camera movement, soft moonlight rim lighting mixed with warm ambient glow from paper shoji lanterns inside the house, subtle film grain, volumetric moonlight rays filtering through surrounding trees, color graded like a Denis Villeneuve film deep indigo and warm amber tones, 35mm anamorphic lens.
 ```
+
+</details>
 
 **👤 出处:** [@Cia0_exe](https://x.com/Cia0_exe) · [source](https://x.com/Cia0_exe/status/2075632375858659717)
 
@@ -1518,17 +1644,20 @@ Cinematic movie-grade shot, shallow depth of field with creamy bokeh, slow dolly
 
 <div align="center">
 
-<img src="images/40-1.jpg" width="360" alt="摩天楼仰角街拍">
+<img src="images/40-1.jpg" width="360" loading="lazy" alt="摩天楼仰角街拍">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Ultra realistic cinematic street photograph of a confident young woman standing between towering modern skyscrapers in a dense financial district. Captured from an extreme low angle perspective, making the dark glass and steel buildings rise dramatically around her and converge toward the cloudy blue sky. She has shoulder length curly black hair and wears a deep burgundy leather jacket over a clean white high neck top. Her expression is serious, calm, and determined as she looks upward toward something beyond the frame.
 
 The woman occupies the lower center of the composition while the massive architecture dominates the surrounding space, creating a strong sense of ambition, pressure, and scale. Blurred silhouettes of commuters move through the background, adding natural city energy without distracting from the subject. Cool overcast daylight, deep blue and charcoal tones, subtle warm reflections inside the buildings, soft directional light across her face, realistic skin texture, natural curls, detailed leather grain, authentic fabric folds, atmospheric depth, cinematic shadows, shallow depth of field, 20mm wide angle lens, f/2.8, slight edge distortion, handheld editorial photography, high dynamic range, subtle film grain, photorealistic full frame camera quality, no artificial beauty filter, no plastic skin, no CGI appearance, ultra detailed, 8K.
 ```
+
+</details>
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2075922805573751264)
 
@@ -1542,15 +1671,18 @@ The woman occupies the lower center of the composition while the massive archite
 
 <div align="center">
 
-<img src="images/41-1.jpg" width="360" alt="红纱丽宫廷人像"> <img src="images/41-2.jpg" width="360" alt="红纱丽宫廷人像">
+<img src="images/41-1.jpg" width="360" loading="lazy" alt="红纱丽宫廷人像"> <img src="images/41-2.jpg" width="360" loading="lazy" alt="红纱丽宫廷人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich deep crimson red silk saree with a matching sleeveless blouse featuring subtle floral jacquard embroidery and a muted gold border. She is standing beside an intricately carved ivory stone pillar in a heritage palace corridor during golden hour, gazing softly into the distance with a calm, dreamy expression. Her hair is styled in a neat low bun adorned with a single fresh red rose, with a few loose curled strands framing her face. Smooth glowing natural skin, expressive brown eyes, soft pink lips, minimal makeup. Warm sunlight passes through ornate carved jali patterns, casting intricate floral shadows across her face, neck, shoulders, blouse, and saree. Soft cinematic backlight, creamy bokeh, shallow depth of field, luxurious heritage architecture blurred in the background, elegant composition, warm golden color grading, highly detailed silk texture, photorealistic skin, natural facial proportions, HDR, 8K, DSLR quality, 85mm portrait lens, f/1.8, ultra sharp focus on the face, premium editorial fashion photography
 ```
+
+</details>
 
 **👤 出处:** [@aaliya_va](https://x.com/aaliya_va) · [source](https://x.com/aaliya_va/status/2075924410423271453)
 
@@ -1564,16 +1696,19 @@ Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich dee
 
 <div align="center">
 
-<img src="images/43-1.jpg" width="360" alt="古风书阁纪实人像"> <img src="images/43-2.jpg" width="360" alt="古风书阁纪实人像">
+<img src="images/43-1.jpg" width="360" loading="lazy" alt="古风书阁纪实人像"> <img src="images/43-2.jpg" width="360" loading="lazy" alt="古风书阁纪实人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 古风纪实摄影 · 书阁梯影午后  竖版 9:16，超写实真人摄影，国际高级时尚杂志 Editorial Photography 与中国古风书阁生活纪实摄影融合风格，复古 CCD 数码相机直闪结合自然窗光拍摄，仿佛在旧书阁中随手记录的一张真实生活影像，具有安静、克制的电影质感与轻微胶片颗粒。  成年中国古风女子，约二十三岁，气质清雅沉静，五官精致自然，鹅蛋脸，杏眼柔和，鼻梁挺秀，唇形自然，肤色冷白至象牙白，真实皮肤纹理保留，整体不过度修饰。乌黑长发自然垂落，仅以一支木簪轻轻固定部分发丝，发丝随室内微风轻轻摆动。  人物身形线条柔和圆润饱满，整体比例协调，肩颈修长，锁骨线条柔和，身体姿态自然放松，四肢线条修长真实，整体具有国际高级时尚杂志 Editorial Photography 的人体雕塑感与东方古典气质。  身穿浅月白与淡墨青宋制汉服，上襦为交领轻纱材质，质地轻薄柔和，下身百迭裙层层展开，自然垂落在木质地板与台阶之间，衣料绣有极淡的云纹与书卷暗纹，整体色调克制安静。腰间系浅色丝绦，佩戴白玉小坠饰与简约香囊。  人物坐在古代书阁木质台阶上，身体微微侧向窗边光源，一只手轻轻扶着身旁木质书架，另一只手自然放在膝上，手边散落几卷古籍与宣纸卷轴。人物微微抬头看向镜头，神情平静内敛，带有轻微思绪感。  摄影采用低机位略仰拍，35mm 广角镜头，利用书架纵深结构与阶梯线条形成强透视构图。前景为木质台阶与散落书页，中景为人物主体，背景为高耸书阁结构与格栅窗光。  窗外午后阳光穿过木格窗，形成条状光影落在人物衣料与地面上，光影层次清晰。室内空气带有轻微尘埃感，使光束可见，增强真实感与空间深度。  整体色彩以浅木色、月白、墨青、纸白与灰棕为主，低饱和高调曝光，CCD彩噪、轻微胶片颗粒、柔和锐化与年代数码压缩质感并存。  画面重点包括：书阁纵深结构、阶梯透视、窗格光影、汉服垂坠感、书卷元素、CCD直闪纪实摄影、高级 Editorial 构图。  右下角加入低调手写艺术签名「DeepBlue」。 
  Negative Prompt： anime, cartoon, illustration, CGI, 3D render, game graphics, plastic skin, AI face, over smoothing, beauty filter, HDR artifacts, oversharpen, low resolution, JPEG artifacts, watermark, logo, QR code, text, date stamp, border, duplicate person, extra limbs, extra fingers, missing fingers, bad anatomy, distorted proportions, unnatural pose, floating objects, cloth clipping, hair clipping, modern architecture, modern objects, neon colors, electronics, vehicles, blur, motion blur, fisheye distortion, messy background.
 ```
+
+</details>
 
 > 💡 使用说明: 对比 GPT Image 2
 
@@ -1589,11 +1724,12 @@ Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich dee
 
 <div align="center">
 
-<img src="images/45-1.jpg" width="360" alt="滑板运动风人像"> <img src="images/45-2.jpg" width="360" alt="滑板运动风人像">
+<img src="images/45-1.jpg" width="360" loading="lazy" alt="滑板运动风人像"> <img src="images/45-2.jpg" width="360" loading="lazy" alt="滑板运动风人像">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 {
@@ -1604,6 +1740,8 @@ Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich dee
     "camera_and_vintage_style_settings": "Standard high-quality digital photography, crisp and clear."
 }
 ```
+
+</details>
 
 > 💡 使用说明: JSON 结构提示词
 
@@ -1619,11 +1757,12 @@ Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich dee
 
 <div align="center">
 
-<img src="images/47-1.jpg" width="360" alt="摩天轮波西米亚夏日"> <img src="images/47-2.jpg" width="360" alt="摩天轮波西米亚夏日">
+<img src="images/47-1.jpg" width="360" loading="lazy" alt="摩天轮波西米亚夏日"> <img src="images/47-2.jpg" width="360" loading="lazy" alt="摩天轮波西米亚夏日">
 
 </div>
 
-**📝 提示词:**
+<details>
+<summary>📝 提示词</summary>
 
 ```
 Shot from a low-angle perspective. The woman is wearing a boho-chic outfit and standing in front of a giant Ferris wheel with colorful gondolas against a clear blue sky.
@@ -1633,6 +1772,8 @@ The background is filled with the metal spokes and framework of the Ferris wheel
 Realistic smartphone photo, taken on a hot summer day in bright direct sunlight, with warm color grading, slightly overexposed highlights, natural shadows, a strong sense of summer heat, natural-looking skin, subtle film grain, slightly sun-faded colors, and the feel of a candid, spontaneous snapshot.
 The face, identity, appearance, age, and all unique characteristics of the person from the original photo must be preserved exactly. The person is not looking at the camera.
 ```
+
+</details>
 
 **👤 出处:** [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [source](https://x.com/ChillaiKalan__/status/2076205946674766094)
 
