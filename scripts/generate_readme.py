@@ -125,41 +125,23 @@ def entry_md(p, t, lang):
         badges.append("![Needs input](https://img.shields.io/badge/needs-reference_image-orange)")
     lines += [" ".join(badges), ""]
     imgs = [f for f in p.get("images", []) if not f.lower().endswith((".mp4", ".mov", ".webm"))]
-    detail = f"prompts/{p['id']}.md"
-    open_p = "📖 查看提示词" if lang == "zh" else "📖 View prompt"
     if imgs:
-        lines += ["<div align=\"center\">", "",
-                  f'<a href="{detail}"><img src="images/{imgs[0]}" width="360" loading="lazy" alt="{title}"></a>', "",
-                  f'<b><a href="{detail}">{open_p}</a></b>', "", "</div>", ""]
+        cells = " ".join(f'<img src="images/{f}" width="360" loading="lazy" alt="{title}">' for f in imgs)
+        lines += ["<div align=\"center\">", "", cells, "", "</div>", ""]
+    # prompt 默认折叠，展开即是代码块（右上角一键复制），不用跳转
+    open_p = "📋 点击展开 / 复制提示词" if lang == "zh" else "📋 Click to expand / copy prompt"
+    lines += ["<details>", f"<summary><b>{open_p}</b></summary>", "",
+              "```", p["prompt"].strip(), "```", "", "</details>", ""]
+    if p.get("needs_input"):
+        lines += [t["needs_input"], ""]
+    if p.get("note"):
+        lines += [f"> 💡 {p['note']}", ""]
+    credit = f"**{t['credit']}:** [{p['author']}]({p['author_link']}) · [source]({p['source']})"
+    if p.get("via"):
+        credit += f" · {t['via']} {p['via']}"
+    lines += [credit, "", t["try_line"].replace("{model}", p.get("model", "seedream-5.0-pro")), ""]
     lines += ["---", ""]
     return "\n".join(lines)
-
-
-def write_details(prompts):
-    """为每条生成 prompts/<id>.md 详情页（含完整 prompt），让 README 保持轻量。"""
-    dirp = os.path.join(ROOT, "prompts")
-    os.makedirs(dirp, exist_ok=True)
-    for p in prompts:
-        title_zh = p["title"]; title_en = p.get("title_en", p["title"])
-        cat = CATEGORIES[cat_of(p)]
-        imgs = [f for f in p.get("images", []) if not f.lower().endswith((".mp4", ".mov", ".webm"))]
-        L = ["[← 返回全部 / Back]( ../README_zh.md )　|　[English](../README.md)", "",
-             f"# No.{p['id']} · {title_zh} / {title_en}", "",
-             f"`{cat['zh']} / {cat['en']}`　`model: {p.get('model','seedream-5.0-pro')}`", ""]
-        if imgs:
-            cells = " ".join(f'<img src="../images/{f}" width="460" alt="{title_en}">' for f in imgs)
-            L += ["<div align=\"center\">", "", cells, "", "</div>", ""]
-        if p.get("needs_input"):
-            L += ["> 📎 需上传一张参考图 / needs a reference image", ""]
-        if p.get("note"):
-            L += [f"> 💡 {p['note']}", ""]
-        L += ["## 📝 Prompt", "", "```", p["prompt"].strip(), "```", ""]
-        credit = f"**👤 出处 / Credit:** [{p['author']}]({p['author_link']}) · [source]({p['source']})"
-        if p.get("via"): credit += f" · {p['via']}"
-        L += [credit, "",
-              f"▶️ **用 API 跑这条 / Run via API** → [Velokey]({SITE}) (`{p.get('model','seedream-5.0-pro')}`)", ""]
-        with open(os.path.join(dirp, f"{p['id']}.md"), "w", encoding="utf-8") as f:
-            f.write("\n".join(L))
 
 
 def build(lang):
@@ -215,7 +197,6 @@ def build(lang):
 
 if __name__ == "__main__":
     _prompts = yaml.safe_load(open(DATA, encoding="utf-8")) or []
-    write_details(_prompts)
     for lang, fname in (("en", "README.md"), ("zh", "README_zh.md")):
         out = build(lang)
         path = os.path.join(ROOT, fname)
